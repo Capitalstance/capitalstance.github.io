@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: _posts/2022-02-22-up-and-running.md
 published: true
 ---
 
