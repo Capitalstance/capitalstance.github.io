@@ -85,6 +85,6 @@ exclude:
   - README.md
   - CNAME
 
-remote_theme: mmistakes/so-simple-theme@3.2.0
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-remote-theme
