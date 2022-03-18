@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 ---
 ## A New Post
 this is what we are looking for and experience..
