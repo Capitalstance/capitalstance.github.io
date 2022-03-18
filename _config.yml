@@ -49,6 +49,7 @@ author:
       
       # Plugins (previously gems:)
 plugins:
+  - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
