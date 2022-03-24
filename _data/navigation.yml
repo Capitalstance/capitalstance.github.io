@@ -12,6 +12,6 @@
 # - title: Recipes
 #   url: /recipes/
 - title: Search
-  url: /_layout/search/
+  url: /search/
 # - title: External Page
 #   url: https://the-page.com/you-want-to-link-to.html
