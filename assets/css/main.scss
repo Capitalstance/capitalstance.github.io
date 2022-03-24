@@ -6,3 +6,11 @@ sitemap: false
 @charset "utf-8";
 
 @import "so-simple";
+
+.site-title::before {
+	content: url("/favicon.png");
+	display: inline-block;
+	position: relative;
+	width: 37px;
+	top: 5px;
+}
