@@ -14,7 +14,7 @@ description: Getting Your Wallet Right!
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
-logo: "" # path of site logo, e.g. "/assets/images/logo.png"
+logo: "/assets/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200
