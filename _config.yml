@@ -85,7 +85,7 @@ exclude:
   - README.md
   - CNAME
 
-remote_theme: wowthemesnet/mundana-theme-jekyll
+remote_theme: 'wowthemesnet/mundana-theme-jekyll'
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
