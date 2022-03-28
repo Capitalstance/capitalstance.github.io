@@ -1,10 +1,18 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'Capital Stance'
+
+title: 'Capital Stance'
+
+description: 'Getting Your Wallet Right!'
+
 logo: 'assets/images/logo.png'
+
 favicon: 'assets/images/favicon.ico'
+
 baseurl: '/mundana-theme-jekyll'
+
 disqus: 'demowebsite'
+
 email: 'wowthemesnet@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
@@ -17,6 +25,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-include-cache
+
   
 authors:
     sal:
@@ -58,6 +69,27 @@ highlighter: rouge
 
 # Paginate
 paginate: 10
+
+
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+
+remote_theme: wowthemesnet/mundana-theme-jekyll
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+
 
 
 
