@@ -15,4 +15,7 @@ permalink: "/contact.html"
 </div>
 <textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>    
 <input class="btn btn-success" type="submit" value="Send">
+  
+   <div><input type="hidden" name="_next" value="https://capitalstance.com/thanks/index.html"></div>
+  
 </form>
