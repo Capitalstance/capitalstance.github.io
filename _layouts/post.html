@@ -91,9 +91,16 @@ layout: default
                             <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate w-100" target="_blank" novalidate>
                             <div class="mc-field-group">
 							
-								<input type="email" placeholder="Enter e-mail address" name="EMAIL" class="required email form-control w-100" id="mce-EMAIL" autocomplete="on" required>
+								<input type="email" placeholder="Enter e-mail address" name="email" class="required email form-control w-100" id="mce-EMAIL" autocomplete="on" required>
 							
-							
+							      <!--  <input type="hidden" name="_next" value="https://capitalstance.com/subscriberthanks.html"> -->
+				                                
+				                                <input type="hidden" name="_subject" value="New submission!">
+				    
+				                                <input type="text" name="_honey" style="display:none">
+				    
+				                                <input type="hidden" name="_template" value="box">
+				    
 								<button type="submit" value="Subscribe" name="subscribe" class="heart btn btn-success btn-block w-100 mt-2">Subscribe</button>
 							
                             </div>
