@@ -13,8 +13,8 @@ baseurl: ""
 
 disqus: 
 
-email: 'wowthemesnet@gmail.com'
-mailchimp-list: 'https://formsubmit.co/insight@capitalstance.com'
+email: 'https://formsubmit.co/insight@capitalstance.com'
+#mailchimp-list: 'https://formsubmit.co/insight@capitalstance.com'
 
 include: ["_pages"]
 permalink: /:title/
