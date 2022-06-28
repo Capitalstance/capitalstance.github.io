@@ -2,7 +2,7 @@
 published: true
 layout: post
 Category: null
-categories: null
+categories: Currency
 image: assets/images/mn1.webp
 title: What Gives Money Its Value
 ---
