@@ -17,15 +17,15 @@ The most serious answer comes from the school of Austrian economics, which defin
 
 
 As people traded with one another over time, they experimented with different monetary goods and free-market forces favored money, which exhibits five critical properties:
-1.	Divisibility
+1.	Divisibility  
 The ease of accounting and transacting at various scales meaning the money has separable and recombinable units.
-2.	Durability
+2.	Durability  
 The ease of expressing value across time meaning money is resilient to physical deterioration.
-3.	Recognizability
-The ease of identifying and authenticating the money by counterparties to a transaction meaning the money is universally verifiable.
-4.	Portability
+3.	Recognizability  
+The ease of identifying and authenticating the money by counterparties to a transaction meaning the money is universally verifiable  
+4.	Portability  
 The ease of securely expressing value across space meaning the money has a high value-to-weight ratio.
-5.	Scarcity
+5.	Scarcity  
 The resistance of money to supply manipulations and thus dilution across time meaning the money must be difficult to produce to successfully store value.
 
 ### The Historical Value of Money
