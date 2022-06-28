@@ -4,8 +4,9 @@ layout: post
 Category: null
 categories: null
 image: assets/images/mn1.webp
+title: What Gives Money Its Value
 ---
-# WHAT GIVES MONEY ITS VALUE?
+
 
 Everyone uses money. We need it, think about it, and work for it. While the formation and expansion of money appear to be somewhat intangible, money is the means by which we obtain the things we require and desire. Whether it be to buy things, save for retirement, or for a rainy day, we all rely on money.
 
