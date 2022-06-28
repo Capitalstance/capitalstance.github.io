@@ -2,7 +2,7 @@
 published: true
 layout: post
 categories: Business
-image: assete/images/bus1.webp
+image: assets/images/bus1.webp
 title: Six Common Myths of Being an Entrepreneur
 ---
 
