@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 Category: null
 categories: null
@@ -47,8 +47,4 @@ This is the pathway that we got into banking and central banking. We needed a co
 ## Money of account vs money of exchange
 Historical evidence supports the idea that money has taken two main forms, which are divided into the broad categories of money of account (debits and credits on ledgers) and money of exchange (tangible media of exchange made from wood, paper, bamboo, metal, and so on), and it is debated which came first.
 
-That is, it allows you to buy things without having to barter with some other person or group directly. If I want something from you but don't have anything you want 
-
-
-
-
+That is, it allows you to buy things without having to barter with some other person or group directly. If I want something from you but don't have anything you want
