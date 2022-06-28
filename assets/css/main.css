@@ -5922,7 +5922,7 @@ button.bg-lightblue:focus {
   width: 75% !important; }
 
 .w-100 {
-  width: 100% !important;
+  width: 100%;
   object-fit: contain;}
 
 .w-auto {
