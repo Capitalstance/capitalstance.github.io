@@ -7,7 +7,6 @@ image: assets/images/mn1.webp
 title: What Gives Money Its Value
 ---
 
-
 Everyone uses money. We need it, think about it, and work for it. While the formation and expansion of money appear to be somewhat intangible, money is the means by which we obtain the things we require and desire. Whether it be to buy things, save for retirement, or for a rainy day, we all rely on money.
 
 How do we define what counts as money and what does not? As you might expect, this is a difficult subject, and economists have proposed several definitions of money that comprises of multiple things. This becomes pretty important when trying to understand how money is created because physical currency makes up a surprisingly small percentage of the total money supply. So let's get in.
