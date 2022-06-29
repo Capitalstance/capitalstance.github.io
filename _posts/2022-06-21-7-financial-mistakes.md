@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Do You Make These 7 Financial Mistakes
 categories: Business
@@ -51,4 +51,3 @@ Remember that your time is valuable. You might save money by doing a lot on your
 You won’t always make the right decision every time, but there are simple mistakes that can be avoided from the get-go.
 
 With all of the above, I will see you at the top!
-
