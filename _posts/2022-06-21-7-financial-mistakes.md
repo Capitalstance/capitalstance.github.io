@@ -37,14 +37,12 @@ As a self-employed individual, taking the initiative and paying your full tax ob
 
 You might lose money during your first year, which happens to a lot of businesses, by the way, but filing a quarterly tax report shows that you don’t owe anything. Save yourself from unnecessary trouble and get your taxes in order as soon as you can.
 
-### Not having a business budget plan
-
+### Not having a business budget plan  
 Not having a clear idea of how much you’ll bring in and how much it’ll cost to get it most definitely means you’re heading straight for failure. Having a clear plan is vital for your business's profitability. Your estimate might be close to nil, but with a budget, at least you’ll know how long it’ll take to start bringing in money.
 
 Set a number of budgets, for each stage, especially for your first year in business. You could have one a month before the official opening, another for after you launch your next product, and so on. 
 
-### Delegating responsibility
-
+### Failing to delegate responsibility  
 It’s crucial to your business’s success and your personal well-being to have staff who can help grow the business. It doesn’t have to be a one-man show. As a business owner, it’s on you to identify your strengths and weaknesses, and where you’re not particularly strong, hire someone who is. This allows you to focus your attention on areas where you can add the most value.
 
 Remember that your time is valuable. You might save money by doing a lot on your own, but that doesn’t necessarily mean you’re making the best financial decision.  
