@@ -22,9 +22,10 @@ I know you have heard all this time and time again. Research has shown that the 
 
 ### 5. Successful entrepreneurs are charismatic.  
 Entrepreneurship is about effecting change, and effecting change is about leadership. Research has actually shown that charisma is not correlated with success in changing the world, but it focuses on these things:  
-•	Do you have a vision?  
-•	Do you have the sense-making capability to understand what's going on in the world?  
-•	Do you have the ability to make sense of what's going on in the world?
+- Do you have a vision?  
+- Do you have the sense-making capability to understand what's going on in the world?  
+- Do you have the ability to make sense of what's going on in the world?
+
 
 ### 6. You have to be rich to be an entrepreneur or have a ton of money to get started.  
 Jeff Bezos started on a shoestring and funded Amazon with his parents' guarantees, supplier loans, and overdrawn credit cards. In other words, with his available means. Instead of going on vacation, you can start a venture. In small, explorative steps, you employ the available means—your money, time, and other people's trust.
