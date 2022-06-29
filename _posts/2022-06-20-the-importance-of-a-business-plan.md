@@ -6,9 +6,7 @@ categories: business
 image: assets/images/bus2.webp
 ---
 
-### What is a business plan?
-
-For us to gain a good understanding of what a business plan is, let's first look at what’s not a business plan. A business strategy isn't something you draft once and then forget about. It doesn't even have to be a document; it just means you know what you want to do in the long run, rather than what you think you need to do right now. However, it's not just words on paper.
+Let's begin from here. For us to gain a good understanding of what a business plan is, let's first look at what’s not a business plan. A business strategy isn't something you draft once and then forget about. It doesn't even have to be a document; it just means you know what you want to do in the long run, rather than what you think you need to do right now. However, it's not just words on paper.
 
 Business plans are not only for loan applications, new businesses, or students in business school. A business plan really doesn't have to follow all the known procedures and formulas that you know. With this understanding, let’s talk about what a business plan is. 
 
