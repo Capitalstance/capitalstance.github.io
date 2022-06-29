@@ -8,11 +8,11 @@ image: assets/images/bus3.webp
 
 The world of business has a lot of uncertainties. There are times you’ll be on top and others when you’ll be struggling to stay afloat. One thing’s for sure, everyone makes mistakes but those who succeed are those who learn from them. So, below are a couple of mistakes most business owners consistently make:
 
-### Not having separate accounts for the business and personal finances.
+### Not having separate accounts for the business and personal finances
 
 One of the most important rules of business is that you do not mix funds, personal and business accounts together. They need to be separated at all times. When keeping personal and business accounts separate, you can track all your expenses accurately and even make sure everything is in order when the time comes to pay taxes. This is possible because there isn’t an overlap between what you spend and earn personally and what the business is bringing in.
 
-### Unnecessary Purchases.
+### Unnecessary Purchases
 
 Grow your business first before thinking about spending money on things that would be nice to have. Moving too fast could leave you bankrupt if you aren’t careful. So take time to come up with a well-paved plan for growth without putting everything you’ve worked to build at risk.
 
