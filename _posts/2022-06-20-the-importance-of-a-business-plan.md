@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: The Importance of a Business Plan
 categories: business
@@ -29,4 +29,3 @@ When done with the business plan, you should update it as new plans become avail
 The process of creating a business plan is more significant than the plan itself. Planning should take place all year, not just once a year. Strategic planning questions should be asked and answered as often as new information becomes available.
 
 The leader's job is to build a rhythm of learning in their organization and instill discipline that pushes you to work challenging your decisions.
-
