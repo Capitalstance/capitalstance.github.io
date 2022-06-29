@@ -21,9 +21,9 @@ Research has shown again and again that entrepreneurs really do not necessarily 
 I know you have heard all this time and time again. Research has shown that the typical entrepreneur is not any more risk-seeking than the typical manager. They can be described as clever risk managers. They seek to mitigate the risk of venture capitalists and investors before they invest. Other entrepreneurs manage a management team in charge of risk by hiring key employees or building potent advisory boards. So entrepreneurs don't seek out risk. They don't prefer it. They attempt to manage it through careful experimentation and resource leveraging.
 
 ### 5. Successful entrepreneurs are charismatic.  
-Entrepreneurship is about effecting change, and effecting change is about leadership. Research has actually shown that charisma is not correlated with success in changing the world, but it focuses on these things:
-•	Do you have a vision?
-•	Do you have the sense-making capability to understand what's going on in the world?
+Entrepreneurship is about effecting change, and effecting change is about leadership. Research has actually shown that charisma is not correlated with success in changing the world, but it focuses on these things:  
+•	Do you have a vision?  
+•	Do you have the sense-making capability to understand what's going on in the world?  
 •	Do you have the ability to make sense of what's going on in the world?
 
 ### 6. You have to be rich to be an entrepreneur or have a ton of money to get started.  
