@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: The Benefits of Having a Business Coach
 categories: business
@@ -27,4 +27,3 @@ As a business owner, you're very much at the top of the food chain. You are your
 In major corporations, fully 20 or 30% of top executives have business coaches that they bring in from the outside and to whom they pay an enormous amount of money, as much as hundreds or even thousands of dollars per hour. And, whether you are running a small local business or looking to build a worldwide company, the benefits of employing a talented business coach cannot be overstated.
 
 Learning is all about getting the most out of yourself and growing as a person. If you don't let it grow and develop, you will be the person holding back the business.
-
