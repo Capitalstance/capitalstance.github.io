@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Why the Us Dollar Is So Powerful
 categories: currency
