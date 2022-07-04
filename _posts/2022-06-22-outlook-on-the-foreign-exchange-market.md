@@ -3,7 +3,7 @@ published: true
 layout: post
 title: Outlook on the Foreign Exchange Market
 categories: currency
-image: assete/images/cur1.webp
+image: assets/images/cur1.webp
 tags: sticky
 ---
 
