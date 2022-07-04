@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Outlook on the Foreign Exchange Market
 categories: currency
@@ -50,4 +50,3 @@ Foreign exchange has really posed a great risk to the business, which is somethi
 The foreign exchange market, sometimes known as the forex market, is popular among investors due to the high potential for returns it offers. This is accomplished through the use of financial instruments known as derivatives. These are essentially fictitious items whose value is derived from another asset. Investors will essentially bet with the company that if the value of the foreign currency rises relative to the currency in your home market, they will be paid. If the value of the foreign currency falls, he compensates you. This means that regardless of what happens to the Australian dollar in our earlier example, the corporation would make a consistent profit even if the Australian dollar fell in value.
 
 If the Australian dollar rose during this period, the investor would have to pay the company around $25 million in US dollars to make up the difference in currency swings. It would imply that the fast-food company would have otherwise made, say, $100 million, but in this case, would have to pay the investor $25 million in both situations. The company earns a consistent 75 million dollars, representing the 25 million dollars in profit that it should have earned without having to worry about the ups and downs of the foreign exchange market, and the investor took a risk for the possibility of profit, which is ultimately what investing is all about. In short, speculative investors want to take on risk for the potential of profits and a normal international business wants to get rid of any foreign exchange risk even if it means that it might otherwise miss out on some speculative profits.
-
