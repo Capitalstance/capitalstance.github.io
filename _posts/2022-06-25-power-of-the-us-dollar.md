@@ -3,7 +3,7 @@ published: false
 layout: post
 title: Why the Us Dollar Is So Powerful
 categories: currency
-image: null
+image: assets/images/cur3.webp
 tags: featured
 ---
 
