@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: How Dubai Rose To Become Wealthy
 categories: wealth
