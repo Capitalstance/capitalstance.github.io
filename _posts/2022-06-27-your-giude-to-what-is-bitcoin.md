@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: A Guide to What Is Bitcoin
 categories: bitcoin
@@ -51,4 +51,3 @@ The bitcoin market is very fragile. In 2020 and 2021, we’ve seen these sudden 
 Bitcoin or another cryptocurrency may become a relatively stable or trustworthy asset class, similar to gold, but it is too early to say since, as we can see today, demand and value fall as soon as people believe it is no longer a viable investment. Satoshi Nakamoto, the mysterious creator of bitcoin, maybe the largest beneficiary of its rise. Assuming, of course, that Nakamoto is a real person who is still alive they’re thought to own more than 1m bitcoin currently worth around $37bn.
 
 Bitcoin may yet become a stable asset like gold or prove to be a bubble that bursts spectacularly but one thing is for certain, the idealistic dream of bitcoin becoming a new form of money independent of governments and central banks remains as elusive as its inventor.
-
