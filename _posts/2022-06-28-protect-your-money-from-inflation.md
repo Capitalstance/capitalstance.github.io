@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 5 Killer Ways to Protect Your Money From Inflation
 categories: investing
@@ -62,4 +62,3 @@ If you have cash, turn it into assets or at the very least collect it so you can
 When you buy a stock, you are purchasing a stake in a company.
 
 When there is an excess of cash in the economy, the value of that enterprise increases, therefore you are growing with inflation. The goal is to keep your money invested in assets that are inflation-protected.
-
