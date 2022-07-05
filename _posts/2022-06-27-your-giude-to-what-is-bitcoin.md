@@ -4,6 +4,7 @@ layout: post
 title: A Guide to What Is Bitcoin
 categories: bitcoin
 image: assets/images/bit1.webp
+tags: summer
 ---
 
 In 2021, the price of a single bitcoin, the largest cryptocurrency, surpassed $60,000, and the total market value of all cryptocurrencies surpassed $2.5 trillion. Bitcoin's promise to create a new decentralized financial system independent of governments and banks has caught the world's attention. It's turned into a social phenomenon. Rather than becoming a new form of currency, bitcoin has evolved into a highly volatile investment asset with large winners.
