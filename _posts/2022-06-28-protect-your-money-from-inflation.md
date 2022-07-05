@@ -18,7 +18,6 @@ When a country goes bankrupt in a struggle, it has to inflate away its liabiliti
 With 7% inflation and 1% interest, $100 will be worth only $73 in five years. If the real rate is closer to 10% — and some argue that when all "hedonic" fudging is removed, it may be even higher — then a $100 savings is now worth only $62 after five years.
 
 The question is, is it possible to profit from inflation?  
-
 Let's have a look at some of the options for dealing with inflation:
 
 ### Buy physical precious metals
