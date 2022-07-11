@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: How Singapore Rose To Be Wealthy
 categories: wealth
@@ -53,4 +53,3 @@ Singapore's low birth rate, like that of other industrialized countries, is posi
 ### Parting Word
 
 Despite having a smaller geographical mass and fewer natural resources, Singapore has turned its labor into an advantage by training its workforce for increased production. It has played clever by acting as an ideal intermediary for many western firms operating in the area, capitalizing on Asia's developing economies such as China, Japan, South Korea, and Taiwan.
-
