@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Is Bitcoin the New Digital Gold
 categories: bitcoin
@@ -48,8 +48,3 @@ The Security Exchange Commission sued blockchain payments company Ripple, accusi
 Some investors still aren’t sure about what to do with the new phenomenon. To invest in bitcoin, one needs to believe in its value of it. To be honest, this is true for other investments as well. But when it comes to stocks and bonds, for example, there are legitimate mathematical models to determine their value. Stocks produce earnings and bonds produce income. This is what determines their value. The same cannot be said about bitcoin.
 
 It’s still an unanswered question of how a modern asset like crypto will fit into legal structures dating back a century and how it can be turned into a real haven. The progress witnessed in recent years makes it easy to believe that these financial structures will eventually adapt to the new model and crypto will be broadly accepted and easy to deal with maybe even becoming a haven investment. However, there is no guarantee that will happen. Until then, comparing crypto and gold still seems like a matter of faith more than anything else.
-
-
-
-
-
