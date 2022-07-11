@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: What To Consider for an Effective Marketing
 categories: marketing
