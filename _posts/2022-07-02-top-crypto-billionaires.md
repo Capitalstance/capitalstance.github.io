@@ -36,7 +36,7 @@ Net worth: $6.6 billion
 Source of wealth: Coinbase  
 Citizenship: U.S  
 
- ![Brian Armstrong]({{site.baseurl}}/assets/images/crypto/cry3.jpg)
+ ![Brian Armstrong]({{site.baseurl}}/assets/images/crypto/cry3.webp)
 
 Brian Armstrong is the CEO of Coinbase Global, the largest bitcoin exchange in the US. Armstrong, a former Airbnb software developer, cofounded Coinbase in San Francisco with a former currency trader Fred Ehrsam in 2012.
 
@@ -58,7 +58,7 @@ Net worth: $4.3 billion
 Source of wealth: Ripple  
 Citizenship: U.S
 
- ![Chris Larsen]({{site.baseurl}}/assets/images/crypto/cry5.jpg)
+ ![Chris Larsen]({{site.baseurl}}/assets/images/crypto/cry5.png)
 
 Chris Larsen launched Ripple in 2012 to use blockchain technology to ease international payments for banks. Ripple counts American Express and Santander among its 100-plus customers. Larsen stepped down as CEO of Ripple in December 2016, however he still serves as executive chairman.
 
