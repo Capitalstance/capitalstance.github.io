@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Who Are the Top Crypto Billionaires
 categories: bitcoin
@@ -154,7 +154,3 @@ Source of wealth: Bitcoin, other cryptocurrencies
 Citizenship: U.S
 
 Tim Draper is a founding partner of the venture capital company Draper Fisher Jurvetson. Draper has made hundreds of venture capital investments in firms such as Tesla and Theranos, as well as a fortune speculating in cryptocurrencies. In 2014, he paid $18.7 million for 29,656 bitcoins seized by US Marshals from the defunct Silk Road criminal market or $632 per coin.
-
-
-
-
