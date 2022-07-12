@@ -9,7 +9,7 @@ image: assets/images/bit3.webp
 No one can argue that the cryptocurrency market isn’t volatile, but it has already changed the way we handle transactions. Bitcoin, Ethereum and other types of digital currencies have paved the way for a new type of online spending. With this type of currency there are no banks or credit card companies taking part in the process; instead, two people agree on everything involved with a transaction before they carry out the exchange through their respective “wallets.  
 Crypto billionaires have become a hot topic in the last few years and here we will explore who they are and where they rank.
 
-1.Changpeng Zhao  
+1. Changpeng Zhao  
 Net worth: $65 billion  
 Source of wealth: Binance  
 Citizenship: Canada
