@@ -58,7 +58,7 @@ Net worth: $4.3 billion
 Source of wealth: Ripple  
 Citizenship: U.S
 
- ![Chris Larsen]({{site.baseurl}}/assets/images/crypto/cry5.png)
+ ![Chris Larsen]({{site.baseurl}}/assets/images/crypto/cry5.jpg)
 
 Chris Larsen launched Ripple in 2012 to use blockchain technology to ease international payments for banks. Ripple counts American Express and Santander among its 100-plus customers. Larsen stepped down as CEO of Ripple in December 2016, however he still serves as executive chairman.
 
@@ -67,7 +67,7 @@ Net worth: $4 billion each
 Source of wealth: Bitcoin  
 Citizenship: U.S.  
 
- ![Cameron and Tyler Winklevoss]({{site.baseurl}}/assets/images/crypto/cry6.jpg)
+ ![Cameron and Tyler Winklevoss]({{site.baseurl}}/assets/images/crypto/cry6.webp)
 
 Cameron and Tyler Winklevoss, often known as the Winklevoss Twins, cofounded the cryptocurrency exchange Gemini in 2014; it now handles over $200 million in transactions every day. Cameron is the president of Gemini, and Tyler is the CEO.
 
@@ -146,7 +146,7 @@ Net worth: $1.6 billion
 Source of wealth: MicroStrategy  
 Citizenship: U.S
 
- ![Michael Saylor]({{site.baseurl}}/assets/images/crypto/cry17.jpg)
+ ![Michael Saylor]({{site.baseurl}}/assets/images/crypto/cry17.webp)
 
 Michael Saylor is the CEO of MicroStrategy, a business analytics software company. Because of his ownership of MicroStrategy, he became a multibillionaire in the late 1990s. After dubious accounting led to a restatement of financial results and the dot-com meltdown, he dropped out of the billionaire ranks. He became a billionaire again as a result of timely bitcoin investments. In October 2020, he revealed that he had personally purchased 17,732 bitcoins for $175 million. Throughout 2020, he directed Microstrategy's corporate funds into bitcoin, purchasing 70,784 bitcoins for $1.1 billion with business cash and borrowings.
 
