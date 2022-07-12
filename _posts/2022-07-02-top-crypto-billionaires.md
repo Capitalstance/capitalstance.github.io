@@ -10,7 +10,7 @@ No one can argue that the cryptocurrency market isn’t volatile, but it has alr
 Crypto billionaires have become a hot topic in the last few years and here we will explore who they are and where they rank.
 
 1.
- ![cry1.webp]({{site.baseurl}}/_posts/cry1.webp)
+ ![cry1.webp]({{site.baseurl}}/_posts/assets/images/crypto/cry1.jpg)
 
 Changpeng Zhao  
 Net worth: $65 billion  
