@@ -16,8 +16,6 @@ Citizenship: Canada
 
  ![Changpeng Zhao]({{site.baseurl}}/assets/images/crypto/cry1.jpg)
   
-
-
 Chain Pang Zhao is a chinese-canadian businessman who happens to be the founder of the world's largest cryptocurrency exchange platform by Binance who goes by CZ. The Chinese-Canadian developer made his name developing high-frequency trading systems for Wall Street's power brokers.
 
 Binance facilitated trades worth more than $9.5 trillion in 2021, accounting for more than two-thirds of total trading volume handled by centralized crypto exchanges. Binance said in February 2022 that it intends to spend $200 million to acquire a minority stake in Forbes through a SPAC deal.
