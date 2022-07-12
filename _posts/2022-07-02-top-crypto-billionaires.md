@@ -9,12 +9,13 @@ image: assets/images/bit3.webp
 No one can argue that the cryptocurrency market isn’t volatile, but it has already changed the way we handle transactions. Bitcoin, Ethereum and other types of digital currencies have paved the way for a new type of online spending. With this type of currency there are no banks or credit card companies taking part in the process; instead, two people agree on everything involved with a transaction before they carry out the exchange through their respective “wallets.  
 Crypto billionaires have become a hot topic in the last few years and here we will explore who they are and where they rank.
 
-1.Changpeng Zhao
- ![cry1.webp]({{site.baseurl}}/assets/images/crypto/cry1.jpg)
-  
+1.Changpeng Zhao  
 Net worth: $65 billion  
 Source of wealth: Binance  
 Citizenship: Canada
+ ![cry1.webp]({{site.baseurl}}/assets/images/crypto/cry1.jpg)
+  
+
 
 Chain Pang Zhao is a chinese-canadian businessman who happens to be the founder of the world's largest cryptocurrency exchange platform by Binance who goes by CZ. The Chinese-Canadian developer made his name developing high-frequency trading systems for Wall Street's power brokers.
 
