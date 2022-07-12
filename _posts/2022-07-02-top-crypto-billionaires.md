@@ -12,7 +12,8 @@ Crypto billionaires have become a hot topic in the last few years and here we wi
 1. Changpeng Zhao  
 Net worth: $65 billion  
 Source of wealth: Binance  
-Citizenship: Canada
+Citizenship: Canada  
+
  ![Changpeng Zhao]({{site.baseurl}}/assets/images/crypto/cry1.jpg)
   
 
