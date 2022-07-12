@@ -10,7 +10,7 @@ No one can argue that the cryptocurrency market isn’t volatile, but it has alr
 Crypto billionaires have become a hot topic in the last few years and here we will explore who they are and where they rank.
 
 1.
- ![cry1.webp]({{site.baseurl}}/_posts/assets/images/crypto/cry1.jpg)
+ ![cry1.webp]({{site.baseurl}}/assets/images/crypto/cry1.jpg)
 
 Changpeng Zhao  
 Net worth: $65 billion  
@@ -21,7 +21,7 @@ Chain Pang Zhao is a chinese-canadian businessman who happens to be the founder 
 
 Binance facilitated trades worth more than $9.5 trillion in 2021, accounting for more than two-thirds of total trading volume handled by centralized crypto exchanges. Binance said in February 2022 that it intends to spend $200 million to acquire a minority stake in Forbes through a SPAC deal.
 
-2.  
+2. 
 Sam Bankman-Fried  
 Net worth: $24 billion  
 Source of wealth: FTX  
@@ -31,7 +31,8 @@ Sam Bankman-Fried is the founder of a Bahamian-based cryptocurrency exchange pla
 
 In 2019, Bankman-Fried started his own exchange, FTX. It is one of the top exchanges for buying and selling crypto derivatives, having been built "by traders, for traders." In 2021, investors valued FTX at $18 billion, making him one of the wealthiest people under 30 in history. In January 2022, the exchange and its US operations were valued at $40 billion.
 
-3.  
+3.
+
 Brian Armstrong  
 Net worth: $6.6 billion  
 Source of wealth: Coinbase  
