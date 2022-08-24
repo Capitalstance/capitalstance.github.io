@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: cryptocurrency
 image: assets/images/cryp1.webp
@@ -68,4 +68,3 @@ This is exactly the difference that we have with Bitcoin. It will be like using 
 
 The incentives for a big tech company to issue a monetary token are very high from a gathering data point of view and people might even prefer a central bank digital currency if there was a design mechanism in there that prevented the government from getting hold of personalized data on what you were spending your money on.
 At the end of the day, a lot of this comes down to trust. Who do YOU want to control and safeguard your money? A central bank? A social media company like Facebook? OR maybe – nobody at all. The answer to that question may well determine our future relationship with money.
-
