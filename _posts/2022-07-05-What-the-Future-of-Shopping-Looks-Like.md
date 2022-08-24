@@ -1,5 +1,9 @@
 ---
 published: false
+layout: post
+categories: Money
+image: assets/images/mon1.webp
+tags: null
 ---
 
 Do you get a buzz out of buying something? A little tingle of excitement. It feels good, doesn't it? That's your brain producing dopamine. During lockdown, people were increasingly forced to rely on the internet to get their retail dopamine hits. Over 4 trillion dollars were spent buying stuff online in 2020.
@@ -36,7 +40,7 @@ Nike’s apps let users customize their own shoes and in doing so learn the cust
 
 It all basically creates a more intimate bond between Nike and its customers. As shopping shifted online the pandemic sparked a greater need for this type of direct-to-consumer selling. Shopify an e-commerce platform allows anyone to set up their own online store. The number of new stores set up in the first six weeks of the pandemic grew by more than sixty percent compared to the previous six weeks. We saw Heinz ketchup within a week or two setting up a store on Shopify to sell Heinz at home. In the UK we saw Lint chocolate go direct to consumers for the first time.   
 
-## The Revolution driven by your data  
+### The Revolution driven by your data
 Inspired by the Chinese model, Shopify aims to create an ecosystem that integrates e-commerce with social media. What they are trying to do is simplify all of it, making it to have one centralized inventory and figure out which product should get pushed where and if one is seeing traffic at their online store coming from Pinterest they are going to tell you to activate the Pinterest channel and push product directly to Pinterest to better engage with that audience.  
 
 I think we're just at the early stages of social commerce and I think people are beginning to understand that there's a real opportunity here not just to meet new brands, and connect with new brands but also to buy from those brands by being better connected to their customers. Brands can work out not just what they want to buy but where they want to shop.  
