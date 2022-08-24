@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: investing
 image: assets/images/inv2.webp
@@ -65,4 +65,3 @@ In recessions, many REITs see their vacancies spike and their pricing power fall
 Many investors make the mistake of investing in a REIT because they “like the buildings” or know someone who works there. Although these two stock picking strategies can work out, they usually do not. If a REIT has a superior portfolio of properties, a conservatively leveraged balance sheet, and a management team with a proven track record of allocating capital prudently, it is likely to be a good investment, even if the price at which you buy it is not “cheap” or deeply discounted at the time.
 
 Most investors do not have the opportunity to assess management’s character directly. One thing every investor can do is understand the risks and rewards inherent in each of the different property types. Predicting REIT returns is more complicated than for other industries. The difficulty arises from the fact that commercial property is a defensive, lagging indicator for the economy. However, stock prices represent investors’ present value of future expected earnings. As a result, REIT stock prices often do not reflect what investors physically see as they go to work, shop, or enjoy recreational activities. Each economic cycle is different with regard to how long and how strong a recovery phase will last.
-
