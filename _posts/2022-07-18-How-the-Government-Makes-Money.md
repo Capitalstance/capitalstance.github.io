@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: banking
 image: assets/images/ban1.webp
@@ -31,4 +31,3 @@ Governments have had to step up their spending in the wake of the pandemic. The 
 Given how important citizens’ contributions are to their income, governments are expected to increase taxes in the coming years to restore their finances. The U.K.’s independent watchdog for public finances said that tax rises or spending cuts of between $29 billion and $63 billion will be needed just to stop public debt levels from rising relative to GDP. In his latest plans for the economy, the U.K.’s finance minister announced an increase in corporate tax.
 
 It’s going to take this country, and the whole world, a long time to recover from this extraordinary economic situation. This is why we hear more leaders discussing new taxes, such as on profits made by digital giants and on pollution. While we don’t know when taxes will rise, and by how much, it is likely these levies will be passed on to consumers, which means there’s a good chance we’ll be paying more to the government before very long.
-
