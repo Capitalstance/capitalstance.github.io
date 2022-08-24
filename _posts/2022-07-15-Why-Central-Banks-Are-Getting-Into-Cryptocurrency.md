@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: cryptocurrency
+image: assets/images/cryp1.webp
 ---
 
 When cryptocurrencies emerged just over a decade ago, the talk was of a decentralized utopia – a way of moving money around that avoided the usual middlemen. Today things are moving in a very different direction. Around the world, central banks are racing to create their versions of digital money, and nowhere is this happening faster than in China.
