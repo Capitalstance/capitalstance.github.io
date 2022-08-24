@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: Money
 image: assets/images/mon1.webp
@@ -51,6 +51,4 @@ In-store data can also help inform stock control ensuring less waste in the supp
 
 It used to be the case that customers had to exhibit their loyalty to the store that they bought. These days it's the retailer that has to prove their loyalty to the shopper and that loyalty really means looking after their data.  
 
-Retailers will know increasing amounts about customers' behavior habits and preferences. this may sit uncomfortably with some but one thing is for sure the inevitability is that this retail revolution will be driven by your data.  
-
-
+Retailers will know increasing amounts about customers' behavior habits and preferences. this may sit uncomfortably with some but one thing is for sure the inevitability is that this retail revolution will be driven by your data.
