@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: cryptocurrency
 image: assets/images/cryp1.webp
