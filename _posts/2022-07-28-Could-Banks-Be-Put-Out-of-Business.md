@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: banking
+image: assets/images/ban3.webp
 ---
 
 Banks are one of the engines of the modern economy but the way they work is under threat. Tech-payment giants and digital currencies are revolutionizing how people use money and this could have dramatic consequences far beyond banking.
