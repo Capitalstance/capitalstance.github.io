@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: banking
 image: assets/images/ban2.webp
@@ -71,5 +71,3 @@ Open banking in Europe has a set of regulations that enforce that banks have API
 In the U.S, there are more than 10,000 banks and credit unions, and community banks, and asking all of them to go until the APIs is immensely difficult. Not to mention the fact that many of the banks don't actually have their own in-house technology teams, so they have to go out and pay consultants to build all that stuff on top of it. So the practicality of it is quite low. However, the principle, the idea that consumers have access there and data is foundational that's actually reflected on both sides of the ocean.
 
 The open banking revolution is just starting in the U.S. It remains to be seen if American politicians will work to foster through government regulation or promote private companies like Plaid and their mission to help consumers better understand and own their financial data.
-
-
