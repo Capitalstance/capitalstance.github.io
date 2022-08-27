@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: banking
+image: assets/images/ban2.webp
 ---
 
 New technology is changing the banking world one transaction at a time. Fintech or financial technology is giving more opportunities to change the way consumers interact with their money. The new landscape has created a movement called open banking, which is fighting for banks and fintech companies to be a bit more transparent with their customers.
@@ -62,7 +65,7 @@ The UK's Payment Services Directive, which is termed informally as open banking,
 
 The UK has one of the most robust fintech ecosystems in the world. Many say that's thanks to open banking laws that make it easier for fintech companies to compete. Those require banks to standardize customer data and make it easier to export in the same format. UK's single biggest trading partner is the United States and the two countries have some of the most prominent economies in the world.
 
-### Open banking Revolution  
+### Open banking revolution  
 Open banking in Europe has a set of regulations that enforce that banks have API and ways to share consumer data when the consumer requested that it is shared and in the U.S there are a similar set of principles. However, we don't have stipulations around those APIs existing. The reality is though, that in the UK there are far fewer banks and so it's much easier to ask all of those banks to go and build APIs.
 
 In the U.S, there are more than 10,000 banks and credit unions, and community banks, and asking all of them to go until the APIs is immensely difficult. Not to mention the fact that many of the banks don't actually have their own in-house technology teams, so they have to go out and pay consultants to build all that stuff on top of it. So the practicality of it is quite low. However, the principle, the idea that consumers have access there and data is foundational that's actually reflected on both sides of the ocean.
