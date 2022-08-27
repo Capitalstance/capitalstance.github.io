@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: Business
+image: assets/images/bus5.webp
 ---
 
 
