@@ -4,7 +4,7 @@ layout: post
 title: What To Consider for an Effective Marketing
 categories: marketing
 image: assets/images/mar1.webp
-tags: featured
+tags: null
 ---
 
 It's no secret that marketing is an important aspect of business success. Effective marketing is all about understanding the market and how your product or service meets the needs of that market. A company cannot exist without customers, so understanding what drives consumers to purchase a product is essential to business success. If you don't have an understanding of what you're looking for, you could end up doing just a ton of data collection and not really get anywhere.
