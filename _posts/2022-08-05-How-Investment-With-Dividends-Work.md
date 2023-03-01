@@ -2,7 +2,7 @@
 published: false
 layout: post
 categories: investing
-image: null
+image: assets/images/investing/inv11.webp
 ---
 
 People often talk about profit sharing as a way for workers and employees to gain a stake in the success of American businesses. In a world with weakened unions, how will workers get a cut of the profits? Employees overwhelmingly like the idea of profit sharing as a regular part of their pay. But there's been a way for the public to share in corporate success for more than a century: a dividend - literally dividing the profits.
