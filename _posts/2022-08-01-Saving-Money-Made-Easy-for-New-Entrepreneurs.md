@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: expenses
 image: assets/images/expenses/exp1.webp
