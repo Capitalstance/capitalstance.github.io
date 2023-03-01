@@ -7,7 +7,7 @@ image: assets/images/wealth/wea11.webp
 
 It can be tough to break bad money habits, but it's not impossible. And if you're serious about saving money, there's no time like the present to start making some changes for the better. Here are eight great tips to help you get started with.
 
-### 1.	Living Below Your Means: Improving Your Financial Situation One Step at a Time  
+### 1. Living Below Your Means: Improving Your Financial Situation One Step at a Time  
 If you want to improve your financial situation, you need to start living below your means. This simply means that you need to make a conscious effort to spend less money than you earn. One way to do this is to cut back on your expenses. You can start by cutting out unnecessary expenses like eating out or going to the movies. These aren't really must-haves, but are more like luxuries. You don't necessarily need to stop them entirely, but you should definitely try to find alternative, more cost-effective options.  
 
 You can also find ways to save on your regular expenses, like groceries or utilities. Another way to live below your means is to make more money. One way to do this is by actively looking for a better-paying job. You can also start a side hustle to bring in some extra income, like we talked about earlier in tip number three. There you have it, becoming financially stable and improving your finances requires some changes to your lifestyle and some sacrifices. But you can be sure that these sacrifices will be very worthwhile in the long term.
