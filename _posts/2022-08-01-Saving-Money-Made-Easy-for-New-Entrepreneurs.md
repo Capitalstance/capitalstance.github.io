@@ -27,6 +27,7 @@ One of the biggest expenses for any business is the cost of office space. Howeve
 
 ### Take care of your own professional services (When you can)
 As a small business owner, you may be tempted to outsource tasks such as professional cleaning, accounting, or legal services. However, if you're on a tight budget, consider taking on these tasks yourself. For example, instead of hiring a professional cleaner, invest in some basic cleaning supplies and do it yourself.  
+
 Of course, this isn't the case for all professional services. Some require specific expertise and should be outsourced to a professional. But for tasks that you can do yourself, taking on the responsibility can save you a lot of money in the long run. Plus, it's a great way to stay involved in all aspects of your business, even the nitty-gritty cleaning details.  
 
 ### Practice smart hiring
@@ -47,4 +48,5 @@ One way to save money is by using bartering and negotiating strategies. By barte
 
 ### Gradual Scaling is Key
 Ensure that you do not expand your business too rapidly. Many business owners, particularly those who are new to the industry, believe that it is imperative to develop their business as much and as quickly as feasible. While this notion may be alluring, and many of us wish to see our enterprises functioning nationally in the first year, rapid expansion can lead to difficulties. If you recruit too many employees, invest in too many sites, or extend your business excessively thin in pursuit of expansion, you may lose your corporate identity, squander funds, and alienate customers. In essence, your entire enterprise could collapse. Rather, concentrate on making modest, sustainable, and manageable decisions when advancing your business. Take one step at a time.  
+
 By implementing these cost-saving strategies, your startup has the potential to save a significant amount of money, ranging from thousands to even hundreds of thousands of dollars in the first few years. This can help establish a lean foundation for your business, allowing you to focus on achieving efficient profitability. With a reduced financial burden and streamlined operations, your startup will be better equipped to achieve long-term success.
