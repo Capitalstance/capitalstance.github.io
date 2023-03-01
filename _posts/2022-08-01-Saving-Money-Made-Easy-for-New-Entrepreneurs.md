@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: expenses
+image: assets/images/expenses/exp1.webp
 ---
 
 Starting a new business often means working with a limited budget. While it would be ideal to have unlimited funds and resources to buy all the equipment needed and hire a full team, the reality is that most startups have to operate with limited resources and revenue. However, there are ways to save money and set your company up for success in the long term.  
