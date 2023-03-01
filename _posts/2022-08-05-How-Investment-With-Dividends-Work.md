@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: investing
 image: assets/images/investing/inv11.webp
@@ -32,4 +32,3 @@ But sometimes a dividend yield that's too high is a red flag. As of the beginnin
 So, will we see a resurgence of dividends in upcoming years? It's unclear. According to S&P Global Silverblat, yields are still historically low. I think there's some financial research that shows that companies that pay out higher dividend rates actually have higher returns than ones that pay out lower rates. I think there's still an argument to be made that they might be socially good if companies paid out more of their earnings because when the companies take a large share of their earnings and reinvest it, sometimes they make mistakes.  
 
 Regardless, if your investment goals align with a little less risk and stable earnings, dividend stocks may be for you. Especially in times of volatility, you can still make some income, even if the stock falls.
-
