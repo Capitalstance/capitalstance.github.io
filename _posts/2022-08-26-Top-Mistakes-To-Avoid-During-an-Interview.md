@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: marketing
+image: assets/images/marketing/mar11.webp
 ---
 Interviews are often the toughest part of the hiring process, and it's important to know how to avoid common errors when meeting with potential employers. Here you will find valuable insights to help you steer clear of interview missteps.  
 
