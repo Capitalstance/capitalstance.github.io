@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: business
 image: assets/images/business/bus11.webp
@@ -70,6 +70,3 @@ When it comes to strategy, it's all about making the right choices for your orga
 It's important to remember that strategic planning is not just about reaching your targets but also about adding value to your customers and all stakeholders affected by your business. With the right approach, you can structure your planning process and achieve your desired outcomes.  
 
 By keeping your strategy focused and aligned, you'll be able to maximize your impact and help more people in the process. Happy planning!
-
-
-
