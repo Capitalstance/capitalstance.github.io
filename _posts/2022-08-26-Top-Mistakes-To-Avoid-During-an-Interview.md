@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: marketing
 image: assets/images/marketing/mar11.webp
