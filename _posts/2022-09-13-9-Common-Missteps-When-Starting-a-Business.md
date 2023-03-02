@@ -1,8 +1,8 @@
 ---
 published: true
 layout: post
-categories: Spending Money
-image: assets/images/expenses/exp2.webp
+categories: Expenses
+image: assets/images/expense/exp2.webp
 ---
 
 A significant aspect of launching a business involves creating a well-thought-out plan and exhibiting the determination to put it into action. While being a part of a startup may not always be glamorous, it often entails surrendering oneself to the process. Eric Ries, in his book The Lean Startup, emphasizes the importance of mundane tasks, stating that his own experiences, as well as those of others, have taught him that success in a startup is not based on innate abilities or luck. Instead, it can be achieved by adhering to the appropriate procedures, which can be acquired through education.  
