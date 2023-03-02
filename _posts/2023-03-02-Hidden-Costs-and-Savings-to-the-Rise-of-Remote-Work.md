@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: savings
+image: assets/images/savings/sav11.webp
 ---
 
 A recent study shows that a staggering 60% of Millennials and 62% of Gen Z consider flexibility in work hours and the ability to work remotely as a crucial factor when evaluating a new job opportunity. This trend highlights the growing demand for work-life balance and the importance of having the option to work from the comfort of one's home or from a location of choice. Whether you are part of the millennial or Gen Z generation, it's clear that flexible work arrangements are now a critical consideration for those on the hunt for their next role.  
