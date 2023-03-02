@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: Spending Money
 image: assets/images/expense/exp2.webp
