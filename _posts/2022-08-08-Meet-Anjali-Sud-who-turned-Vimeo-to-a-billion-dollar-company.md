@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: business
 image: assets/images/business/bus12.webp
