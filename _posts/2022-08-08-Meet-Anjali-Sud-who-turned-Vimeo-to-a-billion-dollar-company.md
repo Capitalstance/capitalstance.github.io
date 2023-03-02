@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: business
+image: assets/images/business/bus12.webp
 ---
 The following is an interview done on the Anjali Sud, the CEO of Vimeo. This is what she had to say:  
 
