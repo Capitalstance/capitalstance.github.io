@@ -2,6 +2,7 @@
 published: false
 layout: post
 categories: business
+image: assets/images/business/bus11.webp
 ---
 
 The Strategic Planning Process involves four key elements: assessing the current situation, setting goals, identifying potential obstacles, and determining the steps needed to reach the desired outcome. This process is crucial in ensuring that a clear path is laid out to achieve the desired result. Here are some of the things to look at:
