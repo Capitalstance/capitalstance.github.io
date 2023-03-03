@@ -22,6 +22,7 @@ Gold futures are contracts that allow you to lock in the price of gold at a spec
 
 The difference comes to this: physical gold is a tangible asset that you can hold and store, while gold futures are financial instruments that are traded on an exchange and represent the right to buy or sell gold at a predetermined price at a future date.  
 
+### Seeing gold as an investment
 
 There are a lot of people who are very bullish on gold and think it's an alternative currency that provides a hedge against inflation and is very attractive when interest rates are low. Many bulls are piling into the sector because they think the Federal Reserve and other central banks are eroding the value of paper money by pumping a ton of cash into the global financial system to support the economy. The increased activity is contributing to momentum trading, driving a frenzy for gold, similar to stocks. But if inflation doesn't materialize, the momentum that gold is seeing could unravel.  
 
