@@ -10,7 +10,7 @@ Gold mining happens on every continent except Antarctica, with China, Russia, an
 
 Mostly hidden beneath the streets of the city, the Bank of England's vaults hold around 400,000 bars of gold worth over $260 billion. The physical trading of gold in London is done behind closed doors and in secret by a few banks. These banks work with the London Bullion Market Association to set the physical price of a troy ounce of gold, and that price determines its value everywhere.  
 
-### Physical Gold vs Gold Futures
+### Physical gold vs gold futures
 The gold stash in London is rivaled only by the Federal Reserve Bank of New York, which holds the world's largest hoard of physical gold. In other places around the world, gold is a common investment as well. In many Asian cultures, gold is seen as something that holds prestige and intrinsic value that can be passed down from generation to generation. This can result in a significant demand for physical gold in the form of jewelry, bars, and coins.  
 
 When individual investors want to buy in, they generally have a few options. They can purchase physical gold in person from dealers or on websites like APMEX. They can bid on thousands of dollars worth of gold through eBay. And they can buy exchange-traded funds that hold physical metal. The biggest of these is SPDR gold shares, which is traded on the New York Stock Exchange.  
