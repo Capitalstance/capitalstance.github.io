@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: ewallets
+image: assets/images/ewallets/ewa11.webp
 ---
 
 In today's fast-paced world, traditional methods of payment like cash are quickly becoming a thing of the past. With the rise of digital wallets and smartphones, the world of payments has been revolutionized. E-wallets have made it possible for us to make quick and convenient payments with just a few taps on our smartphones.  
