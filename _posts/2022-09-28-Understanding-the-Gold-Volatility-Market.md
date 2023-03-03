@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: world-market
 image: assets/images/worldmarket/wma11.webp
@@ -29,4 +29,3 @@ The difference comes to this: physical gold is a tangible asset that you can hol
 There are a lot of people who are very bullish on gold and think it's an alternative currency that provides a hedge against inflation and is very attractive when interest rates are low. Many bulls are piling into the sector because they think the Federal Reserve and other central banks are eroding the value of paper money by pumping a ton of cash into the global financial system to support the economy. The increased activity is contributing to momentum trading, driving a frenzy for gold, similar to stocks. But if inflation doesn't materialize, the momentum that gold is seeing could unravel.  
 
 Gold as an investment is not for the faint of heart. While it can provide a hedge against inflation and is attractive during low interest rate environments, it is also prone to extreme volatility. Investors should thoroughly research and consider their own personal financial situation before investing in gold. It is also important to understand the underlying factors that impact the price of gold, including central bank activity, economic and political stability, and supply and demand dynamics. As with any investment, it is crucial to have a well-thought-out strategy and to monitor market developments in order to make informed investment decisions.
-
