@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: world-market
+image: assets/images/worldmarket/wma11.webp
 ---
 
 Gold is one of the oldest and most well-known precious metals in the world, and for centuries, people have traded gold for its beauty and value. In recent years, gold has become even more popular as an investment, and many people are interested in understanding the market for this valuable metal.  
