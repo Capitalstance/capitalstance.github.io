@@ -201,7 +201,7 @@ If you are located in the EEA or UK and you believe we are unlawfully processing
 
 If you are located in Switzerland, the contact details for the data protection authorities are available here: [https://www.edoeb.admin.ch/edoeb/en/home.html.](https://www.edoeb.admin.ch/edoeb/en/home.html.)
 
-**Withdrawing your consent:** If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?" below.
+**Withdrawing your consent:** If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by [contacting us.](({{site.baseurl}}/contact.html).)
 
 However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
