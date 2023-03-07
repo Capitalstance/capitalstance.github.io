@@ -36,7 +36,6 @@ _**This summary provides key points from our privacy notice, but you can find ou
 
 How do you exercise your rights? The easiest way to exercise your rights is by filling out our data subject request form available here, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
-Want to learn more about what Capital Stance does with any information we collect? Click here to review the notice in full.
 
 
 ### TABLE OF CONTENTS
