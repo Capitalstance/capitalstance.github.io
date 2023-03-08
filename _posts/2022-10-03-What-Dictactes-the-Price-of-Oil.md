@@ -2,7 +2,7 @@
 published: true
 layout: post
 categories: World Market
-image: assets/images/worldmarket/wma13.webp
+image: assets/images/world-market/wma13.webp
 ---
 
 What dictates the price of oil
