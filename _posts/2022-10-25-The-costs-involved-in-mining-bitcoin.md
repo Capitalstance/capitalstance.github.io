@@ -2,7 +2,7 @@
 published: true
 layout: post
 categories: cryptocurrency
-image: assets/images/cryptocurrency/cry21.webp
+image: assets/images/crypto/cry21.webp
 ---
 
 While it's easier than ever to buy a small fraction of one Bitcoin using, for example, an app like Coinbase. That's not the only way to get your hands on crypto cash. You can also mine for it. Digital mining resembles traditional mining, except that it employs software and computers rather than shovels and dynamite.
