@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-categories: Worldmarket
+categories: World-market
 image: assets/images/worldmarket/wma13.webp
 ---
 
