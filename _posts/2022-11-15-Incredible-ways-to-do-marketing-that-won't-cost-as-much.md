@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: Expenses
 image: assets/images/expenses/exp4.webp
@@ -32,4 +32,3 @@ Did you know that an estimated 46 percent of ads go unseen? To avoid wasting you
 Hiring brand ambassadors can be a highly effective way to spread the word about your product or service. These individuals act as ambassadors for your brand and engage with the public in various ways. Companies like Lyft and Amazon have hired university students to serve as brand ambassadors and promote their services on college campuses
 
 Marketing your brand can be a daunting task, especially when it comes to budget. However, you don't have to break the bank to get your message out there. With the plethora of cost-effective tools available today, you can save both money and time. From fostering user-generated content to exploiting online marketing tools, there are many ways to reach your target audience without sacrificing your bottom line. Make the most of these cost-saving strategies and give your business the marketing boost it needs.
-
