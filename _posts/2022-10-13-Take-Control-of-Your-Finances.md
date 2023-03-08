@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: Expenses
+image: assets/images/expenses/exp3.webp
 ---
 Money is an essential part of life. We wake up and immediately start spending. Whether it's the coffee we make with the beans we bought at the grocery store or the car we drive to work, we're always spending. But what happens when our expenses exceed our income? Unfortunately, this is a common problem that can lead to debt and inadequate savings.
 
