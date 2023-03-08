@@ -8,10 +8,11 @@ image: assets/images/investing/inv12.webp
 As a young person, what you're trying to do is prepare for your future. You're trying to accumulate enough assets so that when you're unable or unwilling to work in the future, you can have a steady cash flow coming back to you. What you want to do is invest. Economic power often leads to military power, which in turn leads to political power. 
 
 _When you think of investing, you should consider the four primary types of assets:_ 
-•	Bonds
-•	Stocks
-•	Cash
-•	Real estate. 
+
+-	Bonds
+-	Stocks
+-	Cash
+-	Real estate. 
 
 Real estate, for example, can be especially useful in a zombie apocalypse, as owning a home and having a few guns and some food can help you ride things out. Many advisors recommend holding up to 5-10% of your assets in gold, as it has historically been a store of value and a medium of exchange for the last five thousand years. There are ways to buy gold without buying the actual bullion, but if the grid shuts down and there's no communication, you will not have it on your person. Many people like to buy gold coins, bars, or something in the physical, tangible form and hide it in their house, where it is safe. Others might hide it in air-conditioning ducts or something like that.
 
