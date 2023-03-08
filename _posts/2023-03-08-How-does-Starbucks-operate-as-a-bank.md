@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: banking
 image: assets/images/banking/ban11.webp
