@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: cryptocurrency
 image: assets/images/cryptocurrency/cry21.webp
@@ -77,9 +77,3 @@ _Here are key questions to look at:_
 4.	Can't Google start mining Bitcoin and crush the competition? It can, but it won't be very beneficial. For this reason, ASICs are better suited to tackling the Bitcoin mining problem than Google's servers are. By comparison, Google would represent around one thousandth of one percent of the total mining power now used by the Bitcoin network if it devoted all of its servers only to Bitcoin mining and ceased all other commercial operations. 
 
 Should I mine Bitcoins, then? I believe you are well suited to answer this question by all that we have highlighted. Remember that there may occasionally be more profitable alternatives to mine bitcoins if you want to get a greater return on your investment. For instance, depending on the price of Bitcoin, it can be more beneficial to just purchase them rather than mine them. Another choice would be to maybe mine cryptocurrencies like Ethereum, Monero, or Zcash, which are still able to be mined with GPUs.
-
-
-
-
-
-
