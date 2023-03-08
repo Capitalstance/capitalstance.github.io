@@ -2,7 +2,7 @@
 published: true
 layout: post
 categories: World-market
-image: assets/images/worldmarket/wma13.webp
+image: assets/images/worldmarket/wma14.webp
 ---
 
 The billionaire list is a collection of individuals who have amassed their wealth through various means. Some have built successful pet food and soy sauce brands, while others have made their fortunes in mining copper and zinc, manufacturing eyeglasses, or developing real estate empires. Some have created new wealth while others have inherited old money. In this blog, we'll look at the industries that produced the most billionaires in 2022, and the richest person in each of these industries.
