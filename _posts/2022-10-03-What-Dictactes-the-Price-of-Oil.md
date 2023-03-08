@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: World Market
 image: assets/images/worldmarket/wma13.webp
@@ -34,5 +34,3 @@ Remember the invasion of Iraq in 2003? The uncertainty and instability in the re
 Geopolitical events have the power to shake up the oil market, causing prices to fluctuate. But it's not all doom and gloom, as these challenges also open up opportunities for innovation and progress in the energy industry. The oil market is constantly evolving and adapting to global events, and it's always exciting to see where it will go next.
 
 Market geopolitics and the environment—the energy industry is sure to evolve, and it remains to be seen what role oil will play in the future. But for now, the oil markets remain a powerful force in the world of economics, geopolitics, and your commuting budget.
-
-
