@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: investing
 image: assets/images/investing/inv12.webp
@@ -36,4 +36,3 @@ What's the down payment that we're working toward? Okay, great, that's the numbe
 There are a lot of different levers that you can pull as an investor to hit these goals, but you have to know what they are. The alternative is you're throwing your money at mutual funds with very little understanding of what role they're playing in your life and what they're trying to accomplish. So, we talk about goals-based financial planning first. We never talk about a portfolio with an investor until we know the why - what are you trying to do?
 
 Hope this goes along way into helping you.
-
