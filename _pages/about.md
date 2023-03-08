@@ -5,7 +5,9 @@ permalink: /about.html
 published: true
 ---
 
-Welcome to CapitalStance. We're pleased to have you visit Capital Stance. Capital Stance is an online platform that shares and provides financial advice, financial tools and analysis across the world that will equip you in these modern times. We strive to provide our readers with the most informative and helpful content to help them make the best financial decisions possible for themselves, their lives and their families.
+Welcome to CapitalStance. We're pleased to have you visit Capital Stance.
+
+Capital Stance is an online platform that shares and provides financial advice, financial tools and analysis across the world that will equip you in these modern times. We strive to provide our readers with the most informative and helpful content to help them make the best financial decisions possible for themselves, their lives and their families.
 
 ### MISSION STATEMENT
 Our mission at CapitalStance is to empower our readers with the knowledge and resources they need to take control of their financial future. We believe that everyone should have access to sound financial advice, regardless of their income level or background. 
