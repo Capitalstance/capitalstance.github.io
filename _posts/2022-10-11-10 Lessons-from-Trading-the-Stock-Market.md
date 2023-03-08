@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: Market-stocks
 image: assets/images/marketstocks/mst12.webp
