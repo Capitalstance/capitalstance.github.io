@@ -32,6 +32,6 @@ Austin Russell, who became the world's youngest self-made billionaire when his a
 
 It's been a mixed year overall for this elite cohort. While there are two more billionaires under 30 this year than in 2021, this group is collectively worth $3.7 billion less than last year's group, due in large part to choppy equity markets and Sam Bankman Freed's graduation from the under-30 ranks after turning 30 in March.
 
-Benkman Freed, co-founder, and CEO of FTX alongside Gary Wang, was the richest among the under-30 billionaires last year. But he turned 30 in March, ending his run on the list. Despite this, the group of young billionaires continues to be a fascinating area to watch for the years to come.
+Benkman Fried, co-founder, and CEO of FTX alongside Gary Wang, was the richest among the under-30 billionaires last year. But he turned 30 in March, ending his run on the list. Despite this, the group of young billionaires continues to be a fascinating area to watch for the years to come.
 
-![Benkman Freed]({{site.baseurl}}/assets/images/worldmarket/ben.webp)
+![Benkman Fried]({{site.baseurl}}/assets/images/worldmarket/ben.webp)
