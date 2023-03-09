@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: wealth
+image: assets/images/wealth/wea12.webp
 ---
 
 The world's wealthiest individuals have a common preference when it comes to choosing where to call home. Despite some changes in the rankings, the most popular locations remain unchanged from last year. Here we'll look at the top 10 cities with the most billionaires.
