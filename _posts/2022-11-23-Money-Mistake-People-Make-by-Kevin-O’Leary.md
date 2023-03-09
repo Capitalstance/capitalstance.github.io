@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: Investing
+image: assets/images/investing/inv13.webp
 ---
 
 “There's always, always an opportunity and today, in chaos, there's going to be plenty. We teach everybody everything in high school, we don't teach them how to invest.” Says Kelvin O’Leary. 
@@ -41,4 +44,3 @@ What's your most valuable asset in your life? It's not money. It's your time.
 Time is what you use to make money. Time is what you use to enjoy yourself. Time is what you do to experience all the wonderful things life offers. The key to time is how you allocate it. You have to set your goals, sell your objectives to yourself. You have to work - that takes x hours. You want to enjoy yourself - that takes time too. You want to raise a family - it's time. You want to pursue interests like hobbies and art, play guitar, whatever it is - it all takes time. Happy people have balance in their life; they've found a way to allocate time to all the things that mean something to them.
 
 So, here's a way to think about it: look at tomorrow and look at how you've allocated your time. Is there something there you really don't want to do and don't have to? Get rid of it. Don't do it. Spend time on things that matter to you. You have to work to make money, I get that. But the rest of your day is yours. Think about how you spend it.
-
