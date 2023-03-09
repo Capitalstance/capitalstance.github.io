@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: investing
 image: assets/images/investing/inv14.webp
@@ -43,4 +43,3 @@ Secondly, it's unclear how you'll get a return on your investment. The financial
 
 Finally, the value of your Metaverse property is closely tied to the price of cryptocurrencies. If the value of the coin you used to buy your property drops, so will the value of your property, making it a risky investment.
 The Metaverse is still in its early stages, and there's a lot of speculation around its future. While it's true that big players like Apple, Microsoft, Samsung, and Nvidia are investing in it, there's no guarantee of success.
-
