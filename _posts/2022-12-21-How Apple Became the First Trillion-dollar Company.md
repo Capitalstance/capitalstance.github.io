@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: World-market
 image: assets/images/worldmarket/wma17.webp
@@ -34,4 +34,3 @@ Steve Jobs was famously opposed to undervaluing the product, and this approach h
 Instead of relying on offering cheaper prices and discounts to beat your competition, focus on demonstrating the superiority of your products and customer experience to the public. It's important to have the necessary qualities to support your claims. This will be beneficial in the long run.
 
 Apple has had a major impact on our daily lives, mainly by changing the way we perceive technology. Before Apple, technology was thought of as complicated and difficult to understand. However, Apple showed us that technology isn't scary and can be used by anyone, regardless of age or social status. They have successfully sold the public on a positive attitude towards technology, resulting in widespread use. In essence, Apple's success goes beyond just having amazing products. They have instilled a "can-do" mentality in their consumers.
-
