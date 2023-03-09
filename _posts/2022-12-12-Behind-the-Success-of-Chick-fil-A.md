@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: business
 image: assets/images/business/bus13.webp
@@ -37,4 +37,3 @@ Beyond the delicious food, there is a deeper meaning to the Chick-fil-A brand, o
 While the company has faced some scrutiny in the past for its conservative values and the donations made by its foundation, the focus of their charitable giving has shifted in recent years to address issues such as homelessness, hunger, and education.
 
 At the headquarters in Atlanta, there is a prominent rock display with a quote from Truett, the founder of Chick-fil-A, which sums up the company's purpose. The quote reads, "To Glorify God by being a faithful steward of all that is entrusted to us. To have a positive influence on all who come in contact with Chick-fil-A." This quote perfectly captures the company's noble sense of purpose and their belief in doing more than just serving chicken sandwiches.
-
