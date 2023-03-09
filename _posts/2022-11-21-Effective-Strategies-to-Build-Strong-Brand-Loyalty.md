@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: Earnings
+image: assets/images/earnings/ear11.webp
 ---
 
 Let’s say you are tired of your trusty old iPhone 8 and you are ready for an upgrade? With the latest smartphones about to hit the market, it can be tough to decide which one to choose. The iPhone 13, Google Pixel 6, and Samsung Note 21 all have similar technical specs, but when it comes down to it, why do you find yourself gravitating towards the iPhone 13?
