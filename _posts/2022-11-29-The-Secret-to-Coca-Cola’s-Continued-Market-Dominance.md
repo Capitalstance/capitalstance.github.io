@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: Marketing
+image: assets/images/marketing/mar14.webp
 ---
 
 Coca-Cola is one of the largest beverage companies in the world, serving over 1.9 billion drinks daily. Despite its roots as a single-product company, selling soda at a drugstore for five cents a glass, it now boasts a portfolio of 200 brands, including Coke, Fanta, and Sprite. With declining soda consumption in the US, the company has shifted its focus, making investments in the sports performance drink market with Body Armor and acquiring UK coffee maker Costa. 
