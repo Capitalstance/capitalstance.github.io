@@ -3,6 +3,9 @@ title: "Contact"
 permalink: "/contact.html"
 ---
 
+<meta name="robots" content="noindex">
+
+
 <form action="https://formsubmit.co/2230a032aa71369e0d91953bd4b40cd3" method="POST">    
 <p class="mb-4">Please send your message to {{site.name}}. We will reply as soon as possible!</p>
 <div class="form-group row">
