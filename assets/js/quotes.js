@@ -119,7 +119,39 @@
             {
             quote: "Invest in yourself, you can afford it, trust me.",
             author: "Rashon Carraway"
-            }       
+            },
+            {
+            quote: "The way to get started is to quit talking and begin doing.",
+            author: "Walt Disney"
+            },
+            {
+            quote: "Earn as much as you can, save as much as you can, invest as much as you can, give as much as you can.",
+            author: "John Wesley"
+            },
+            {
+            quote: "Wise spending is part of wise investing. And it’s never too late to start.",
+            author: "Rhonda Katz"
+            },
+            {
+            quote: "The wisest rule in investment is: when others are selling, buy. When others are buying, sell.",
+            author: "Jonathan Sacks"
+            },
+            {
+            quote: "Investors should purchase stocks like they purchase groceries, not like they purchase perfume.",
+            author: "Ben Graham"
+            },
+            {
+            quote: "When you invest, you are buying a day that you don’t have to work.",
+            author: "Aya Laraya"
+            },
+            {
+            quote: "Investing time in yourself is the only safe investment that will give you maximum return throughout life.",
+            author: "Lyrikal"
+            },
+            {
+            quote: "An investment in education is an investment in our future.",
+            author: "David Wasinger"
+            }
       ];
 
       const quoteBox = document.querySelector('#quote-box');
