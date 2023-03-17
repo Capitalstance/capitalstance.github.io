@@ -1,13 +1,61 @@
 // Array of quotes and authors
       const quotes = [
         {
-          quote: "The greatest glory in living lies not in never falling, but in rising every time we fall.",
-          author: "Nelson Mandela"
-        },
-        {
-          quote: "The way to get started is to quit talking and begin doing.",
-          author: "Walt Disney"
-        }
+quote: "The biggest risk of all is not taking one.",
+author: "Mellody Hobson"
+},
+{
+quote: "Compound interest is the eighth wonder of the world. He who understands it, earns it. He who doesn’t, pays it.",
+author: "Albert Einstein"
+},
+{
+quote: "I suppose my formula might be: Dream, diversify and never miss an angle.",
+author: "Walt Disney"
+},
+{
+quote: "With a good perspective on history, we can have a better understanding of the past and present, and thus a clear vision of the future.",
+author: "Carlos Slim Helu"
+},
+{
+quote: "An investment in knowledge pays the best interest.",
+author: "Benjamin Franklin"
+},
+{
+quote: "The stock market is a device for transferring money from the impatient to the patient.",
+author: "Warren Buffett"
+},
+{
+quote: "Opportunity is missed by most people because it is dressed in overalls and looks like work.",
+author: "Thomas Edison"
+},
+{
+quote: "The only limit to our realization of tomorrow will be our doubts of today.",
+author: "Franklin D. Roosevelt"
+},
+{
+quote: "The circulation of confidence is better than the circulation of money.",
+author: "James Madison"
+},
+{
+quote: "Never depend on a single income, make an investment to create a second source.",
+author: "Warren Buffett"
+},
+{
+quote: "Do not save what is left after spending but spend what is left after saving.",
+author: "Warren Buffett"
+},
+{
+quote: "Do not put all your eggs in one basket.",
+author: "Warren Buffett"
+},
+{
+quote: "Never test the depth of the river with both of your feet.",
+author: "Warren Buffett"
+},
+{
+quote: "I made my first investment at age eleven. I was wasting my life until then.",
+author: "Warren Buffett"
+}
       ];
 
       const quoteBox = document.querySelector('#quote-box');
