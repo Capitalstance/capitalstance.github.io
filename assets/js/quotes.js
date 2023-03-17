@@ -10,6 +10,22 @@
         }
       ];
 
+      const quoteBox = document.querySelector('#quote-box');
+const quote = document.querySelector('#quote');
+
+quoteBox.style.padding = '20px';
+quoteBox.style.width = '600px';
+quoteBox.style.margin = '0 auto';
+quoteBox.style.textAlign = 'center';
+quoteBox.style.boxShadow = 'rgba(0, 0, 0, 0.2) 0px 18px 50px -10px';
+
+quote.style.fontStyle = 'italic';
+
+const mediaQuery = window.matchMedia('(max-width: 768px)');
+if (mediaQuery.matches) {
+  quoteBox.style.width = '90%';
+}
+
       // Function to get a random quote
       function getRandomQuote() {
         let quoteIndex = Math.floor(Math.random() * quotes.length);
