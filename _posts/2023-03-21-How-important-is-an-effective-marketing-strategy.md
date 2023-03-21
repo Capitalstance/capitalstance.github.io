@@ -10,7 +10,7 @@ Marketing is an essential part of any business, yet it is often overlooked by st
 Marketing is a powerful tool that can help a brand present its image and engage with consumers. It may not directly close deals, but when done correctly, it can support the sales team by bringing in qualified leads and helping them to close deals. A well-versed marketing expert can impact a business in several ways, helping to create brand awareness, build relationships with customers, and ultimately drive sales.
 
 ### _Five Advantages of Implementing a Robust Marketing Plan_
-studies consistently demonstrate that repeated exposure to individuals leads to increased affection in human-to-human encounters. This is attributed to the fact that witnessing someone multiple times generates a sense of trustworthiness and likability. This principle can also be extended to contemporary brands and corporations.
+Studies consistently demonstrate that repeated exposure to individuals leads to increased affection in human-to-human encounters. This is attributed to the fact that witnessing someone multiple times generates a sense of trustworthiness and likability. This principle can also be extended to contemporary brands and corporations.
 
 ### Improving Brand Awareness and Recognition
 Building brand familiarity is a top priority for businesses across industries. According to Edelman's survey, more than 80 percent of consumers require trust in a brand before making a purchase. But how can brands establish this trust and familiarity with their audience? This is where an effective marketing strategy comes into play.
