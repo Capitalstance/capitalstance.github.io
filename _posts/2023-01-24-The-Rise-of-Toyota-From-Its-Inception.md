@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: Marketing
+image: assets/images/marketing/mar17.webp
 ---
 
 Toyota has become one of the world's largest automakers by churning out cars, trucks, and sport utilities - affordable, reliable, and safe. But over the years, it has also grown a reputation for being kind of boring. A scion of the Toyota family, Akio Toyoda, now has the reins at the company founded by his ancestors, and he gave a severe order: no more boring cars. Now the Japanese giant is doubling down on speed, adventure, and cutting-edge technology in a bid to survive and succeed in an era where global automakers face tremendous uncertainty over the future. Toyota aims to maintain its reputation for producing cars that are affordable and of excellent quality, while also injecting them with enthusiasm and energy.
