@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: World-market
 image: assets/images/worldmarket/wma18.webp
@@ -78,4 +78,3 @@ Becoming a life coach is another option for those who have valuable experiences 
 
 ### 23.Web design
 If you have skills in website design, there are many companies and professionals out there who need help creating a quality website that represents their brand image. By offering your services, you can make money while helping others improve their online presence.
-
