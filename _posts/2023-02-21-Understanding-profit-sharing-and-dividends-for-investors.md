@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: Investing
+image: assets/images/investing/inv17.webp
 ---
 
 In today's business world, the topic of profit sharing is frequently discussed as a means for employees to benefit from the success of American companies. With weakened unions, many workers are left wondering how they can receive a slice of the profits. While profit sharing is a popular idea among employees, dividends have been providing the public with an opportunity to partake in corporate success for over a hundred years.
