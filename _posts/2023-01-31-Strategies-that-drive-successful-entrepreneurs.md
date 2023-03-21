@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: Worldmarket
+image: assets/images/worldmarket/wma21.webp
 ---
 
 As an entrepreneur, the business world can be overwhelming. With constantly changing trends, markets and competitors, it's easy to lose focus on your company's goals. However, staying focused is key. Here are six essential things every entrepreneur should do to ensure their business stays on track to success.
