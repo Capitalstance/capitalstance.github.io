@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: Marketing
+image: assets/images/marketing/mar15.webp
 ---
 
 ### 1.	Don’t worry about being promoted
