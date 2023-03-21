@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: Expenses
+image: assets/images/expenses/exp7.webp
 ---
 
 As a manager, you might think that money is the best motivator for your employees. However, studies have shown that employees are not primarily motivated by monetary incentives. Instead, intrinsic motivators like recognition, flexible work time, growth, and advancement are much more effective in motivating people. The good news is that these intrinsic motivators are low cost, which means that you don't need to break the bank to motivate your team. Below are ten pieces of advice on how to inspire your staff without relying on money.
