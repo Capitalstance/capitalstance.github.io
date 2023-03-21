@@ -2,7 +2,7 @@
 published: false
 layout: post
 categories: World-market
-image: assets/images/worldmarket/wma21.webp
+image: assets/images/worldmarket/wma22.webp
 ---
 
 Entrepreneurship isn't just about finding an idea that can make a lot of money. Successful entrepreneurs must tap into a motivating power that drives lasting success, and their ideas must be powerful enough to change the world through major economic, social or environmental impact.
