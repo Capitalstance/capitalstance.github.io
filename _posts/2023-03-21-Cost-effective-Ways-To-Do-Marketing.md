@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: Expenses
+image: assets/images/expenses/exp6.webp
 ---
 
 Marketing is a crucial aspect of a company's financial success. Nevertheless, conventional advertising platforms like newspapers, radio, and television can become costly very rapidly and may not yield significant returns on investment. In contrast to these past methods, your marketing approach doesn't have to be costly. There are a few techniques to save money on marketing while also making certain that your message is effectively conveyed to your intended audience.
