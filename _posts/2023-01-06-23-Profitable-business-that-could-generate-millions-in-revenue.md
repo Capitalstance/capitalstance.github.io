@@ -58,10 +58,10 @@ Personal Training is always in demand. If you enjoy fitness and helping others a
 ### 16.Craigslist Flipping.
 Craigslist can be a goldmine for finding deals that you can flip for a profit. Use online resources to help you identify the best deals and turn them into a successful business.
 
-### 17.Farmers' market seller.
+### 17.Farmers' Market Seller.
 If you know any farmers in your area, you can partner with them to sell their products at local farmers' markets. Rather than paying upfront, you can work out a commission-based system that will help mitigate your risk.
 
-### 18.Paid advertising consultant.
+### 18.Paid Advertising Consultant.
 With businesses relying heavily on paid advertising to drive leads, becoming an expert in Google AdWords or Facebook ads can be a lucrative way to start your own business. Once you've gained the necessary expertise, you can start charging clients for managing their ad spend.
 
 ### 19.Tutor
@@ -76,5 +76,5 @@ If you're someone who enjoys trying out new products and sharing your thoughts w
 ### 22.Life Coach
 Becoming a life coach is another option for those who have valuable experiences they can share with others. Whether it's providing actionable strategies or general advice, becoming a mentor or life coach can be a fulfilling and profitable business venture.
 
-### 23.Web design
+### 23.Web Design
 If you have skills in website design, there are many companies and professionals out there who need help creating a quality website that represents their brand image. By offering your services, you can make money while helping others improve their online presence.
