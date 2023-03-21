@@ -8,11 +8,12 @@ The Rolls-Royce has been a brand of excellent quality and prestige from its begi
 
 The very first owner of this Phantom was Princess Elizabeth, and after she acceded to the throne, it became the official state vehicle of the United Kingdom. Only sixteen of the original eighteen are still to exist, and some are even used on special occasions such as weddings of both princes.
 
-Here's a list of the top-selling Rolls-Royce models, along with their starting cost:
-•	Phantom - $450,000
-•	Ghost – $314,000
-•	Wraith – $322,000
-•	Cullian – $330,000
+Here's a list of the top-selling Rolls-Royce models, along with their starting cost:  
+- 	Phantom - $450,000
+- 	Ghost – $314,000
+- 	Wraith – $322,000
+- 	Cullian – $330,000
+
 
 Rolls-Royce is known for offering a vast array of customization options, making the cost of their bespoke vehicles truly limitless. The company is so committed to personalized experiences that they don't even have a set base price. As Rhodri Good, a Product Manager at Rolls-Royce, states, "We don't have a standard base price to talk about since it depends entirely on each customer and the unique features they want to add in collaboration with our bespoke team."
 
