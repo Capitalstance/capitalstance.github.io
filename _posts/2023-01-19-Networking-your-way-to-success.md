@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: Marketing
+image: assets/images/marketing/mar16.webp
 ---
 
 At any stage in your career, one of the best ways to achieve long-term success is by thoughtfully and consistently networking. Here are four steps to take to network intelligently:
