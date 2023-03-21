@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: investing
 image: assets/images/investing/inv18.webp
