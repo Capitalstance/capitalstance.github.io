@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: Wealth
+image: assets/images/wealth/wea13.webp
 ---
 
 As it's commonly known, schools don't educate students on the subject of money, leaving most people to learn about finances from their parents at home. However, what are parents actually teaching their children about money? And what sets apart those who become wealthy and successful from those who do not? 
