@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: Investing
 image: assets/images/investing/inv17.webp
@@ -28,4 +28,3 @@ However, some may argue that the rationale behind the decline in dividends is no
 Traditionally, established and stable companies participate in profit sharing by paying dividends. Once a dividend is paid, it can be challenging to stop without negatively affecting the stock price. The dividend yield changes with the stock price, if the stock price drops and the company continues to pay the dividend, the yield will increase, which could indicate a good deal as long as the company is financially stable. However, an extremely high dividend yield can be a warning sign.
 
 the future of dividends remains uncertain with current yields remaining low. While some research suggests that companies with higher dividend rates have better returns, paying out more of their earnings as dividends could also have positive effects for society. If you are looking for low-risk investments with consistent income, dividend stocks may be worth considering. Despite market volatility, you can still earn income if the stock price drops.
-
