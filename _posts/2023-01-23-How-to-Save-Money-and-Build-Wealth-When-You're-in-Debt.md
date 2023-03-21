@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: Wealth
+image: assets/images/wealth/wea13.webp
 ---
 
 Building your net worth is a life's journey. It's not something that can happen overnight. The first step is really to think outside of the financial world. Think about your personal life. What do you want to accomplish? Come up with some goals. You have to give your money meaning. Right, without meaning, your money just seems purposeless. You want to identify where you want to be this time next year and this time in the next five years. Then start to plan.
