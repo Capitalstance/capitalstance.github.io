@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: wealth
+image: assets/images/wealth/wea15.webp
 ---
 
 Rolls-Royce makes some of the world's most luxurious cars. Its name is synonymous with opulence and grandeur in the world of automobiles. Known for their hand-crafted vehicles that offer a magical, seamless ride, owning a Rolls-Royce is a dream for many car enthusiasts. However, it's no secret that these cars don't come cheap. The price tag associated with a Rolls-Royce is a reflection of the exceptional quality and attention to detail that goes into each and every one of their vehicles. So, if you're looking to experience the ultimate in luxury and comfort on the road, be prepared to pay the price.
