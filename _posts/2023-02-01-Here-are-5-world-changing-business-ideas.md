@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: World-market
 image: assets/images/worldmarket/wma22.webp
@@ -33,4 +33,3 @@ In fact, by incorporating a philanthropic effort, you can make a positive impact
 It's important to note that even small acts of philanthropy can have a big impact. While donating a single pair of glasses may not seem like much, it can make a significant difference in the life of someone in need. And, by making philanthropy a core value of your business, you can create a ripple effect that inspires others to give back.
 
 Whether you're looking to change the world or simply want to make a difference in your industry, incorporating philanthropy into your business can help you achieve your goals. By identifying a greater purpose for your work, you can turn your business into a force for good and attract customers who share your values.
-
