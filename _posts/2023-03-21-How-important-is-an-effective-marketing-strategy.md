@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: World-market
 image: assets/images/worldmarket/wma20.webp
