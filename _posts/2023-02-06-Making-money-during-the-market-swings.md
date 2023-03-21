@@ -2,7 +2,7 @@
 published: false
 layout: post
 categories: Investing
-image: assets/images/investing/inv15.webp
+image: assets/images/investing/inv16.webp
 ---
 
 If you've ever watched the news, you've likely heard about the VIX, or the volatility index. Also known as Wall Street's fear gauge, it's a measure of the market's blood pressure - indicating how scared, anxious, nervous, and uncertain investors are feeling. Essentially, the VIX lets us know what the risk, fear, and level of stress is in the marketplace at any given time.
