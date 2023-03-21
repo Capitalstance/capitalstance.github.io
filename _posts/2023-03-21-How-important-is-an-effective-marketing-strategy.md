@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: World-market
+image: assets/images/worldmarket/wma20.webp
 ---
 
 Marketing is an essential part of any business, yet it is often overlooked by startups. With limited resources, startups often focus on selling and fail to recognize the significance of marketing. But this approach can be a waste of time and money. The sales team may struggle to generate leads and convert them, but with the right support and tools, they can increase their chances of success. In fact, marketing can have a significant impact on the success of a business.
