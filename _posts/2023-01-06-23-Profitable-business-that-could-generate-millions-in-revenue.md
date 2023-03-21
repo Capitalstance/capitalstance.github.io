@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: World-market
+image: assets/images/worldmarket/wma18.webp
 ---
 
 
