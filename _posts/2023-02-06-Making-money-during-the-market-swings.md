@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: Investing
 image: assets/images/investing/inv16.webp
@@ -56,4 +56,3 @@ Investing can be intimidating and confusing for beginners, but with the right kn
 
 When you have different elements in your portfolio, they can do different things and support each other. For instance, when one asset is up, another might be down, providing a hedge against the S&P 500. The VIX, or the CBOE Volatility Index, can also be used as a short-term tactical trade idea or as a key determinant of when to switch different asset classes or parts of the market you want to be invested in.
 But the most important thing when investing is to have a sound plan, regardless of whether you are a trader or long-term investor. If you are investing for something 20 or 30 years down the road, it's crucial to have a plan that will guide your decisions and keep you on track.
-
