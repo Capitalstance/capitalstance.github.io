@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: investing
+image: assets/images/investing/inv18.webp
 ---
 
 More than 60% of the purchases made in 2019 were made using cards from Visa, a company that has long dominated the payment card industry. 
