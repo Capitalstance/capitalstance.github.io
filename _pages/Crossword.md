@@ -25,7 +25,7 @@
             <tr>
 				<div class="area">
 					<td onclick="startTimer()" class="ecw-crosswordarea">
-						<script src="test.js"></script>
+						<script src="{{site.baseurl}}/assets/js/test.js"></script>
 					</div>
 
 
