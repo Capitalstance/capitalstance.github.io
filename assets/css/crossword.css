@@ -1,0 +1,217 @@
+body {
+                font-family: "Segoe UI", "Franklin Gothic Medium", "Arial", sans-serif;
+                cursor: default;
+                font-size: small;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-direction: column;
+            }
+
+            h1, h2, h3, h4, h5, h6 {
+                color: #030303;
+            }
+
+            .ecw-answerbox {
+                color: rgb(0, 0, 0);
+                background-color: #ffffff;
+                border-color: #808080;
+                border-style: solid;
+                border-width: 1px;
+                display: block;
+                padding: .75em;
+                width: 240pt;
+            }
+
+            .ecw-box {
+                border-style: solid;
+                border-width: 1pt;
+                cursor: pointer;
+                font-size: .18in;
+                font-weight: bold;
+                justify-content: center;
+                height: .29in;
+                overflow: hidden;
+                text-align: center;
+                width: .29in;
+            }
+
+            .ecw-boxcheated_sel {
+                background-color: #FFF1D7;
+                border-color: #C00000;
+                color: #2080D0;
+            }
+
+            .ecw-boxcheated_unsel {
+                background-color: #ffffff;
+                border-color: #606060;
+                color: #2080D0;
+            }
+
+            .ecw-boxerror_sel {
+                background-color: #FFF1D7;
+                border-color: #C00000;
+                color: #BF0000;
+            }
+
+            .ecw-boxerror_unsel {
+                background-color: #FFF0F0;
+                border-color: #606060;
+                color: #BF0000;
+            }
+
+            .ecw-boxnormal_sel {
+                background-color: #ececec;
+                border-color: #050505;
+                color: #000000;
+            }
+
+            .ecw-boxnormal_unsel {
+                background-color: #ffffff;
+                border-color: #000000;
+                color: #000000;
+            }
+
+            .ecw-button {
+                background-color: #030303;
+                /* Green */
+                border: none;
+                color: white;
+                padding: 8px 20px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                margin: 4px 2px;
+                cursor: pointer;
+                border-radius: 25px;
+                /* Add rounded corners */
+                transition-duration: 0.4s;
+                font-weight: bold;
+            }
+
+            .ecw-button:hover {
+                background-color: #161616;
+                /* Dark green */
+            }
+
+            .ecw-cluebox {
+                border-bottom-width: 1px;
+                border-color: #585757;
+                border-left-width: 0px;
+                border-right-width: 0px;
+                border-style: solid;
+                border-top-width: 1px;
+                margin-top: 1em;
+                padding-bottom: .5em;
+                padding-left: 0pt;
+                padding-right: 0pt;
+                padding-top: .5em;
+                font-size: 11pt;
+            }
+
+            .ecw-crosswordarea {
+                background-color: black;
+                border-color: #000000;
+                border-style: solid;
+                border-width: 2px;
+                padding: .5em;
+                font-family: "Segoe UI", "Verdana", "Arial", sans-serif;
+                font-size: small;
+                overflow-x: auto;
+            }
+
+            .ecw-copyright {
+                margin-bottom: 10em;
+                font-size: x-small;
+                font-family: "Segoe UI", "Franklin Gothic Medium", "Arial", sans-serif;
+            }
+
+            .ecw-input {
+                font-family: "Segoe UI", "Verdana", "Arial", sans-serif;
+                font-size: 13pt;
+            }
+
+            .ecw-wordlabel {
+                text-transform: uppercase;
+                margin: 0;
+                font-size: 12pt;
+                letter-spacing: 2px;
+            }
+
+            .ecw-wordinfo {
+                font-size: 9pt;
+                color: #808080;
+            }
+
+            .ecw-worderror {
+                color: #c00000;
+                font-weight: bold;
+                display: none;
+                margin-top: 1em;
+            }
+
+            #time-wrapper {
+                display: none;
+            }
+
+            .box {
+                vertical-align: middle;
+            }
+
+            @media screen and (max-width: 600px) {
+                .box {
+                    top: 90%;
+                    /* move the box below the table */
+                    vertical-align: middle;
+                    right: 0;
+                    width: 100%;
+                    height: 100px;
+                    bottom: 0;
+                    justify-content: center;
+                }
+            }
+
+            @media screen and (max-width: 767px) {
+                .box {
+                    position: relative;
+                    padding-left: 0;
+                    justify-content: center;
+                }
+
+                .ecw-answerbox {
+                    position: static;
+                    margin-bottom: 1em;
+                }
+
+                .hidden {
+                    display: none;
+                }
+
+                .input-wrapper {
+                    margin-top: 1em;
+                }
+
+                .button-wrapper {
+                    margin-top: 1em;
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                }
+            }
+
+            @media only screen and (max-width: 600px) {
+                .ecw-answerbox {
+                    font-size: 16px;
+                    padding: 10px;
+                    justify-content: center;
+                }
+            }
+
+            @media only screen and (max-width: 400px) {
+                .ecw-answerbox {
+                    font-size: 14px;
+                    padding: 5px;
+                    justify-content: center;
+                }
+            }
