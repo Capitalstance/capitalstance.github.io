@@ -8460,3 +8460,7 @@ html {
     align-self: baseline !important; }
   .align-self-xl-stretch {
     align-self: stretch !important; } }
+
+.tradingview-widget-copyright {
+display: none !important;
+}
