@@ -1,5 +1,5 @@
 ---
-title: Stocks
+title: stocks
 layout: page
 permalink: /stocks.html
 published: true
