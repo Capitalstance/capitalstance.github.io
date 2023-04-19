@@ -4,6 +4,7 @@ layout: default
 permalink: "/stocks.html"
 ---
 <html>
+  <body>
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div id="tradingview_0302a"></div>
@@ -30,4 +31,5 @@ permalink: "/stocks.html"
   </script>
 </div>
 <!-- TradingView Widget END -->
+  </body>
 </html>
