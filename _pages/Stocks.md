@@ -1,7 +1,8 @@
 ---
 title: Stocks
-layout: default
-permalink: "/stocks.html"
+layout: page
+permalink: /stocks.html
+published: true
 ---
 <html>
   <body>
