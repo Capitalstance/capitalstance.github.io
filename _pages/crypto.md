@@ -1,13 +1,12 @@
 ---
 title: Crypto
-layout:
 permalink: /crypto.html
 ---
 
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/markets/cryptocurrencies/prices-all/" rel="noopener" target="_blank"><span class="blue-text">Crypto markets</span></a> by TradingView</div>
+  
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-screener.js" async>
   {
   "width": "100%",
