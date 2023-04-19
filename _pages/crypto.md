@@ -1,6 +1,7 @@
 ---
-title: Crypto
+title: crypto
 permalink: /crypto.html
+published: true
 ---
 
 <!-- TradingView Widget BEGIN -->
