@@ -5,8 +5,12 @@ pagination:
     enabled: true
 description: "Capitalstance delivers and offers advice, insight, profiles and guides in financial matters to make you master every aspect to make a sound financial decision."
 ---
-
-<!-- TradingView Widget BEGIN -->
+    
+<div class="container">
+    
+{% if page.url == "/" %}
+    
+    <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
     <div class="tradingview-widget-container__widget"></div>
     <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/markets/" rel="noopener" target="_blank"><span class="blue-text">Markets today</span></a> by TradingView</div>
@@ -105,14 +109,6 @@ description: "Capitalstance delivers and offers advice, insight, profiles and gu
   </div>
   <!-- TradingView Widget END -->
         <br>
-        
-        
-
-<div class="container">
-    
-{% if page.url == "/" %}
-    
-    
     
 <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
 <div class="row remove-site-content-margin">
