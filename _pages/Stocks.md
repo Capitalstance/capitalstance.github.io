@@ -4,8 +4,7 @@ layout: page
 permalink: /stocks.html
 published: true
 ---
-<html>
-  <body>
+
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div id="tradingview_0302a"></div>
@@ -32,5 +31,4 @@ published: true
   </script>
 </div>
 <!-- TradingView Widget END -->
-  </body>
-</html>
+
