@@ -11,7 +11,7 @@ published: true
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-screener.js" async>
   {
   "width": "",
-  "height": "",
+  "height": "1000",
   "defaultColumn": "overview",
   "screener_type": "crypto_mkt",
   "displayCurrency": "USD",
