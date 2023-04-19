@@ -2,7 +2,6 @@
 title: Crypto
 permalink: /crypto.html
 published: true
-layout: page
 ---
 
 <!-- TradingView Widget BEGIN -->
