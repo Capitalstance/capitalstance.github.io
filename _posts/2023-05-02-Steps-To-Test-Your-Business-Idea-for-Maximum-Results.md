@@ -1,8 +1,10 @@
 ---
 published: false
 layout: post
-categories: business
-image: assets/images/business
+categories: Business
+image: assets/images/business/bus15.webp
+date: '2023-05-02 05:00:00 -0700'
+future: true
 ---
 
 Innovation is the backbone of every business's success, but turning a simple idea into a successful innovation requires a well-planned and strategic approach. The following are steps you should always take when testing out a new idea:
