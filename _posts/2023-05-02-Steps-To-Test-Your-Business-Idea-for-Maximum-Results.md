@@ -3,7 +3,7 @@ published: false
 layout: post
 categories: Business
 image: assets/images/business/bus15.webp
-date: '2023-05-02 11:00:00 +0300'
+date: '2023-05-02 11:00:00 +0000'
 future: true
 ---
 
