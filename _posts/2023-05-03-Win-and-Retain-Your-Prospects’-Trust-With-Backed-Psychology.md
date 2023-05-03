@@ -2,7 +2,7 @@
 published: false
 layout: post
 categories: Earnings
-image: assets/images/earnings/earn13.webp
+image: assets/images/earnings/ear13.webp
 ---
 
 The key to sealing a deal is to build trust with your prospect. However, gaining someone's trust is easier said than done, especially when your motives are inherently self-serving. But fear not, dear salespeople, because there is a way to overcome this hurdle! By transforming yourself into more of an advisor during the buying journey, you can establish and maintain trust with your prospect. And how do you do that, you may ask? Well, it's all about the psychology behind it. In fact, understanding and utilizing the power of psychology can play a significant role in establishing a trustworthy relationship with your potential customer.
