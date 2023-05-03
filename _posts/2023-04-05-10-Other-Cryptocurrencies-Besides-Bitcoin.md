@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: Cryptocurrency
+image: assets/images/crypto/cry23.webp
 ---
 
 Bitcoin has revolutionized the world of finance as the first-ever decentralized cryptocurrency built on a peer-to-peer network. Its success has spurred the creation of numerous other digital currencies, with Bitcoin serving as the industry's benchmark. However, investors should keep their options open and consider other cryptocurrencies besides Bitcoin. Despite the market's volatility, some cryptocurrencies have persevered through steep price fluctuations, indicating their viability as long-term investments. Let's take a look at a few such cryptocurrencies.
