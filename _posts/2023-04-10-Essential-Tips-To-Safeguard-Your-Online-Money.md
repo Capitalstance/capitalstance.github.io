@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: Savings
 image: assets/images/savings/sav12.webp
@@ -70,4 +70,3 @@ These handy tools generate strong passwords and store them safely, so you don't 
 But, as with anything in the digital world, there are risks involved. Password managers aren't foolproof and can still be vulnerable to security breaches. In fact, over 29,000 companies were impacted when a password manager was hacked and data was stolen. So, while password managers are a great tool to have, it's important to do your research and choose a reputable one.
 
 Online banking and mobile wallet apps to manage your finance are convenient, but they can also come with a price. You need to take precautions to keep your financial information safe. Start by creating strong passwords and using multi-factor authentication. Don't auto-save your banking information on third-party sites, and only log in to your bank account from trusted networks.
-
