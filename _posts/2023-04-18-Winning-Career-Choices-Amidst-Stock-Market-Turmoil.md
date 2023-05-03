@@ -2,7 +2,7 @@
 published: true
 layout: post
 categories: Market-stocks
-image: assets/images/marketstocks/mst13.webp
+image: assets/images/marketstocks/mst14.webp
 ---
 
 The stock market can be a source of anxiety for many job seekers. However, it's important to remember that the relationship between the stock market and job opportunities is not always negative. In fact, if you play your cards right, you could use the ups and downs of the market to your advantage. While it's never wise to base your career decisions solely on stock market trends, paying attention to the current economic climate could help you make strategic moves towards achieving your goals.
