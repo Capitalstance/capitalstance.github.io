@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: Cryptocurrency
 image: assets/images/crypto/cry23.webp
