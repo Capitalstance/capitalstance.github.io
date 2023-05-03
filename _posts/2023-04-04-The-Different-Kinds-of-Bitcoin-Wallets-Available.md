@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: Cryptocurrency
+images: assets/images/crypto/cry22.webp
 ---
 
 Bitcoin is one of the most talked-about and debated topics in the world of finance and investments. It is a digital currency that uses a decentralized system, allowing people to buy and sell goods and services without the need for a centralized authority. However, to be able to transact using Bitcoin, you need a Bitcoin wallet.
