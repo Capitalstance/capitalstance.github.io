@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: E-wallets
 image: assets/images/ewallets/ewa12.webp
