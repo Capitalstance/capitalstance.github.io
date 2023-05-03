@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: Marketing
 image: assets/images/marketing/mar18.webp
@@ -60,4 +60,3 @@ It is important to be aware of both verbal and nonverbal cues when conversing wi
 It is important to identify your audience and tailor your tone and approach accordingly in order to establish a stronger connection with them. Your language and delivery should differ depending on the profile of your listeners, such as addressing a group of medical professionals versus a group of creative writing students. Prior to beginning your speech, take some time to evaluate your audience. This will aid you in refining your presentation and generating an energetic flow that will hold your audience's interest. Effective communication requires proficiency and self-assurance, both of which can be honed through practice. Start enhancing your abilities as soon as possible to achieve your desired employment!
 
 As a corporate leader or really in whatever position you hold, one of the most valuable talents you can develop is the ability to communicate properly. Remember to use both nonverbal and vocal cues when communicating. To ensure that the material of the conversation resonates with the audience, pay attention to what others have to say and overcommunicate in unique ways.
-
