@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: Wealth
 image: assets/images/wealth/wea15.webp
@@ -54,5 +54,3 @@ When it comes to life insurance, there's more to it than meets the eye. There ar
 - The existence of a permanent death benefit in a life insurance policy acts as a "permission slip" in retirement. This means you can spend down your assets without worrying about leaving behind an inheritance. Instead, you can enjoy your retirement years without sacrificing your standard of living.  
 
 Gone are the days of relying solely on the "4 percent rule." By focusing on your complete financial picture, you can protect your hard-earned money while also optimizing your wealth-building potential. And don't worry if you've experienced a loss in the past; it's never too late to start recovering and securing your financial future.
-
-
