@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: Investing
 image: assets/images/investing/inv19.webp
@@ -36,5 +36,3 @@ Furthermore, providing educational opportunities can also lead to growth and upw
 Career pathing is an effective way to provide your employees with a clear path for advancement within your organization. By working with their managers, employees can set goals and develop the skills and knowledge needed to reach them. This can not only benefit the individual employee but also the organization as a whole by building a more skilled and motivated workforce.
 
 Your employees are the backbone of your business. Without them, there would be no one to run the show. That's why it's important to take care of them and invest in their growth and development. When you invest in your workforce, you'll create a stronger team, better leaders, and happier employees. Plus, it will ultimately benefit your business by improving your bottom line. So, it's time to start prioritizing your employees and watch your business thrive.
-
-
