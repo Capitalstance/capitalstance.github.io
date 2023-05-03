@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: Savings
 image: assets/images/savings/sav13.webp
@@ -68,4 +68,3 @@ At the end of the day, both you and your savings buddy will come out as winners.
 
 ### Impose a waiting period
 Have you ever bought something on a whim and regretted it later? It's a common trap to fall into, and it can quickly drain your savings. But there's a simple trick to avoid this buyer's remorse: wait 24 hours before making any big purchases. This pause can help you differentiate between what you really need versus what you just want, and ultimately lead to smarter spending habits.
-
