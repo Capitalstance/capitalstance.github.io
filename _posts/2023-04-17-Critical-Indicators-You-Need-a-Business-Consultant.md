@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: Expenses
 image: assets/images/expenses/exp8.webp
@@ -58,5 +58,3 @@ Imagine having someone with a fresh set of eyes look over your business, specifi
 
 ### 10. You're Engaged in a Project with Time Constraints
 It's tough to tackle a new product design or marketing campaign if you don't know where to begin. But hiring a consultant can be of help. With their expertise and guidance, you can gain valuable time and insights to make your first attempt a success. But beware, not all consultants are created equal. It's crucial to seek out industry experts with a proven track record and references to avoid wasting time and money on so-called "fake" gurus.
-
-
