@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: Cryptocurrency
 images: assets/images/crypto/cry22.webp
@@ -30,5 +30,3 @@ Paper wallet is a fancy name for printing your public and private key on a piece
 Hardware wallets are cold storage wallets that generate keys on demand while making transactions. These USB shaped devices need to be plugged into your computing device while transacting. Hardware wallets are secure from computer malware since they are offline and generate the keys on the device. Extremely convenient to use, hardware wallets do not require technical know-how to operate. They have sturdy backup options so that you do not lose access to your wallet. They can also be secured with a password to combat theft. If you deal in Bitcoins regularly, invest in Hardware wallets such as TREZOR or Ledger Wallet.
 
 Ultimately, the safety and security of your Bitcoins is your responsibility. Hence, choose your wallet after carefully weighing your options. Online wallets are easy to use, but are vulnerable to theft. Paper wallets are secure, but not as convenient for frequent transactions. Hardware wallets are the most secure, but come with a higher price tag. Choose the wallet that fits your usage and security requirements. Remember, being proactive about your wallet's safety will save you a lot of trouble in the long run.
-
-
