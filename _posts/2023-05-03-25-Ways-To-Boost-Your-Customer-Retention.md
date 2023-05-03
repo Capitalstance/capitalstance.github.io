@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+categories: business
+image: assets/images/business/bus16.webp
 ---
 
 As a business owner, one of your top priorities is to ensure that your customers keep returning. Not only does this reduce the cost of marketing and advertising, but it also allows you to easily introduce new products or services to your existing customers who have already been satisfied with your offerings.
