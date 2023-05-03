@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: Business
 image: assets/images/business/bus17.webp
@@ -41,4 +41,3 @@ Of course, it's not always possible to reward every team member equally. Priorit
 ### Listen at all time.
 You don't have to do it all alone! As the saying goes, "If you're the smartest person in the room, you're in the wrong room." The key is to surround yourself with people who bring diverse skills and experiences to the table. Once you find the right team, it's important to collaborate with them consistently to harness their collective brilliance. This means holding brainstorming sessions where everyone's voice is heard and valued. By doing so, you'll be amazed at the creativity and innovation that emerges.
 While every business venture is unique, some advice is universal. As you embark on your entrepreneurial journey, remember to prioritize teamwork, communication, and collaboration.
-
