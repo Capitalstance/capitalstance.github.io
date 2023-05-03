@@ -8,7 +8,8 @@ A Bitcoin wallet is essentially a digital bank account that allows you to send, 
 
 ### Hot Wallets vs Cold Wallets
 There are two main types of Bitcoin wallets: Hot Wallets and Cold Storage Wallets. Hot wallets are online storage wallets that are accessible from any web portal. However, they are not recommended as they are susceptible to hacking. Cold storage wallets, on the other hand, are stored offline and are not accessible to hackers.
-There are four different types of Bitcoin wallets that you need to know about. 
+
+There are four different types of Bitcoin wallets that you need to know about:
 
 ### The software wallet
 The first type is a Software Wallet, which requires applications to be downloaded on a computer to create and access a Bitcoin wallet. Software clients are available for both desktop and mobile platforms. However, some desktop clients such as Bitcoin Core require the entire Blockchain to be downloaded onto the computer, which can run into sizes upwards of 100 GB. On the other hand, MultiBit is a lighter software wallet that does not require the Blockchain to be downloaded. Among mobile-based software clients, MyCelium offers a robust software wallet for Android and iOS platforms, and Copay offers both mobile and desktop online wallets. 
