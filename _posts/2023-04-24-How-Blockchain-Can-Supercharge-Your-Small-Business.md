@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: Cryptocurrency
 image: assets/images/crypto/cry24.webp
@@ -40,5 +40,3 @@ But it's not just about raising capital – the blockchain technology that under
 For customers who value privacy and security, this is a huge selling point. They're more likely to do business with a company that harnesses this technology, which means small businesses should consider incorporating elements of the blockchain into their business strategy.
 
 By doing so, entrepreneurs can take their business to the next level of speed and security. Whether it's offering additional methods of payment or simply letting customers know that their data is safe and secure, blockchain technology can give small businesses a competitive edge in today's crowded market.
-
-
