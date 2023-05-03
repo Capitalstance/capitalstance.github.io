@@ -2,7 +2,7 @@
 published: true
 layout: post
 categories: Banking
-image: assets/images/bankng/ban12.webp
+image: assets/images/banking/ban12.webp
 ---
 
 The COVID-19 pandemic has been a catalyst for change across many industries, but in banking, it's been more than just a blip on the radar. In fact, the pandemic has irrevocably changed the industry, and banks are recognizing it in real-time. The pre-COVID days of incremental change and cautious experimentation have given way to a faster digital metabolism and a willingness to challenge conventional business models.
