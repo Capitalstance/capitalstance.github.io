@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: Market-stocks
 image: assets/images/marketstocks/mst13.webp
@@ -86,6 +86,3 @@ It's difficult to perform at your best when the possibility of a severe market c
 But fear not, there are plenty of careers that are not heavily influenced by the ups and downs of the stock market. These jobs offer a level of insulation from the periodic fluctuations of stock prices, allowing you to breathe a little easier. If you're tired of constantly worrying about your future every time the Dow drops, it may be time to start exploring your options.
 
 Don't let the fear of market volatility hold you back from pursuing a fulfilling career. By seeking out a job that isn't so closely tied to the stock market, you can find the peace of mind you need to thrive in your professional life.
-
-
-
