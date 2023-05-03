@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: Banking
 image: assets/images/banking/ban13.webp
@@ -42,4 +42,3 @@ As new technologies and players like Google and Apple continue to disrupt the in
 Despite the challenges, the future of digital banking looks bright. Financial institutions must be agile and forward-thinking to keep up with consumers' changing expectations and differentiate themselves from their competitors. Co-innovation will become an integral part of success, with companies working together to create innovative solutions that meet the needs of their customers.
 
 To thrive in this dynamic environment, companies must leverage both technology and human capital. Tech capabilities and digital services must be resilient and available when customers need them. At the same time, human talent is critical, and leaders must upskill, reskill, and retain their talent to promote innovation. They must challenge their teams to think creatively and develop solutions that meet the needs of tomorrow's customers. Ultimately, the companies that can blend people and technology seamlessly will be the most successful in the changing times ahead.
-
