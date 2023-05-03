@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: Nfts
 image: assets/images/nfts/nft12.webp
@@ -44,5 +44,3 @@ As businesses look for new ways to engage with younger, more tech-savvy demograp
 However, it is important for businesses to approach NFT investments carefully. Major NFT failures in 2022 received widespread media attention and serve as a reminder for businesses to invest in NFTs with their end customers in mind. It is crucial to identify strategies that will benefit the target audience and build a stronger connection between the brand and its tech-savvy customers.
 
 Some potential uses of NFTs include creating collectibles, offering exclusive access to events or products, and even creating digital real estate. NFTs can also help with ownership verification and provenance tracking in various industries.
-
-
