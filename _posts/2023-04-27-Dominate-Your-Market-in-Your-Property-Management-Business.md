@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: Marketing
 image: assets/images/marketing/mar19.webp
@@ -47,4 +47,3 @@ You need to measure the results of your efforts. Whether you're running a social
 In order to stay consistent with your branding and marketing, it's important to take things slow and make sure you're confident with your strategy. Rushing into a new marketing campaign without proper planning can lead to confusion and inconsistency, which can ultimately harm your brand. Take the time to develop a solid marketing plan that aligns with your brand values and goals, and then stick to it.
 
 If you're feeling overwhelmed or unsure about your marketing strategy, don't be afraid to reach out to others for advice and feedback. Whether you connect with other business owners in your industry or seek out marketing experts, there are plenty of resources available to help you develop a successful marketing plan.
-
