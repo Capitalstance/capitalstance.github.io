@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: Market-stocks
 image: assets/images/stockmarkets/mst15.webp
@@ -58,5 +58,3 @@ Sure, stocks come with risks, but with a little self-education and professional 
 
 Don't believe us? Just look at the numbers. The S&P 500 has seen an impressive 10.26% return recently, while the average interest rate on a 60-month CD at the bank is a paltry 0.95%. That's a huge difference! By finding the right stocks or funds to fit your investment goals and risk tolerance, you can make stock investing work for you.
 Don't let fear hold you back from exploring the world of stock investing. With the right approach, you can reap the rewards of potentially high returns while minimizing the risks.
-
-
