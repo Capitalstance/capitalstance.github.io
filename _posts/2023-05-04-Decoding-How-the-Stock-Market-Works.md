@@ -2,7 +2,7 @@
 published: true
 layout: post
 categories: Market-stocks
-image: assets/images/stockmarkets/mst15.webp
+image: assets/images/marketstocks/mst15.webp
 ---
 
 The stock market: a term that can evoke a wide range of emotions from individuals. Some view it as the golden ticket to financial freedom, while others may associate it with painful memories of past financial crashes. Despite the mixed perceptions, one thing is clear: the stock market plays a crucial role in building wealth for many people.
