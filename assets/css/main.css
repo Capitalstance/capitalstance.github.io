@@ -8464,3 +8464,26 @@ html {
 .tradingview-widget-copyright {
 display: none !important;
 }
+
+
+/* Styles for the skeleton loading structure */
+.skeleton {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.skeleton-header {
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.skeleton-content {
+  flex-grow: 1;
+  padding: 20px;
+}
+
+.skeleton-footer {
+  background-color: #f2f2f2;
+  padding: 20px;
+}
