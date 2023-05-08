@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: Wealth
 image: assets/images/wealth/wea17.webp
