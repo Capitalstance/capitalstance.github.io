@@ -3,6 +3,7 @@ published: true
 layout: post
 categories: wealth
 image: assets/images/wealth/wea11.webp
+tags: sticky
 ---
 
 It can be tough to break bad money habits, but it's not impossible. And if you're serious about saving money, there's no time like the present to start making some changes for the better. Here are eight great tips to help you get started with.
