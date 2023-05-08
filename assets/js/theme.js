@@ -135,9 +135,4 @@ $(function() {
   }
 });
 
-/* JavaScript for the skeleton loading structure */
-document.addEventListener("DOMContentLoaded", function() {
-  // Hide the skeleton structure and show the page content
-  document.querySelector(".skeleton").style.display = "none";
-  document.querySelector("body").style.overflow = "auto";
-});
+
