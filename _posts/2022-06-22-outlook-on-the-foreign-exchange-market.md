@@ -4,7 +4,6 @@ layout: post
 title: Outlook on the Foreign Exchange Market
 categories: currency
 image: assets/images/currency/cur1.webp
-tags: sticky
 ---
 
 The foreign exchange market is the largest, most liquid financial market in the world. Live Forex data is available online to everyone, and trading programs are readily available to anyone. The three largest security markets in the world are the New York Stock Exchange, the Nasdaq, and the Tokyo Stock Exchange which have a trading volume of over $300 billion daily. Combined, the foreign exchange market has a daily trading volume of around six point six trillion dollars per day, according to the Bank for International Settlements, which is the central bank for central banks. This daily figure is more than the annual GDP of all but two of the largest nations on earth, China and the USA.
