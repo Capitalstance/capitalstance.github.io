@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Steps To Test Your Business Idea For Maximum Results
 categories: Business
@@ -30,4 +30,3 @@ This means that the idea can be easily expanded to new markets, products and ser
 
 ### 8.	Be Patient
 Do not jump on the latest trend or shiny new thing. Waiting is actually one of the most important vetting tools for an innovative idea. If the idea still seems exciting and valid a few weeks or months down the line, then it’s worth exploring further. This ensures that you’re not wasting valuable time and resources on an idea that won’t pan out in the long-term.
-
