@@ -4,6 +4,7 @@ layout: post
 title: What Can Be an NFT
 Categories: Nfts
 image: assets/images/nfts/nft13.webp
+categories: Nfts
 ---
 Non-fungible tokens have taken the art world by storm, with record-breaking sales and high-profile artists like Grimes jumping on board. But it's not just visual art that's getting in on the action. NFTs have evolved far beyond their initial function and can represent unique ownership of almost any digital asset.
 
