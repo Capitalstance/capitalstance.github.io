@@ -3,7 +3,7 @@ published: true
 layout: post
 categories: Expenses
 image: assets/images/expenses/exp8.webp
-title: Critical Indicators You Need A Business Consultant.
+title: Critical Indicators You Need A Business Consultant
 ---
 
 Many entrepreneurs experience uncertainty and doubt when launching and running a business. That's why it's a smart move to consider working with a business consultant who has been in your shoes and can offer valuable advice.
