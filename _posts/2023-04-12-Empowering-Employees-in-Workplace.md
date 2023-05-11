@@ -3,7 +3,7 @@ published: true
 layout: post
 categories: Investing
 image: assets/images/investing/inv19.webp
-title: Invest In Empowered Employees For Intellectual Capital.
+title: Invest In Empowered Employees For Intellectual Capital
 ---
 
 It turns out that most workers (94%) would stay longer and be more engaged with their employer if their individual development was supported. This may sound like bad news, but it's actually an opportunity to invest in your most valuable asset - your employees.
