@@ -3,7 +3,7 @@ published: true
 layout: post
 categories: Savings
 image: assets/images/savings/sav12.webp
-title: Essential Tips to Safeguard Your Online Money
+title: Essential Tips To Safeguard Your Online Money
 ---
 
 Online banking and mobile payment apps have made financial transactions more convenient than ever. However, this technological advancement has also brought with it some major concerns about cybersecurity. The ease of saved passwords, automatic transactions, and password-free devices can make your financial data vulnerable to hackers.
