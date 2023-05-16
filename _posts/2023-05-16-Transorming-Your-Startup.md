@@ -1,7 +1,7 @@
 ---
 published: false
 layout: post
-title: Transform Your Startup Efficiency with Tech
+title: Transform Your Startup Efficiency With Tech
 categories: Cryptocurrency
 image: assets/images/crypto/cry25.webp
 ---
