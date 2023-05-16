@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Transform Your Startup Efficiency With Tech
 categories: Cryptocurrency
