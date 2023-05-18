@@ -1,5 +1,9 @@
 ---
 published: false
+layout: post
+title: Revamp Your Finances with 3 Piggy Banks
+categories: Savings
+image: assets/images/savings/sav14.webp
 ---
 As a passionate entrepreneur, you're all too familiar with the struggle of saving money. It's a constant battle, leaving you perplexed and muttering those words that haunt you: "I'm strapped for cash, there's nothing left to save."
 
