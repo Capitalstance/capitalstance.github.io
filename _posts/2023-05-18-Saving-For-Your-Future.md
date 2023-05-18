@@ -1,7 +1,7 @@
 ---
 published: false
 layout: post
-title: Revamp Your Finances with 3 Piggy Banks
+title: Revamp Your Finances with 3 'Piggy Banks'
 categories: Savings
 image: assets/images/savings/sav14.webp
 ---
