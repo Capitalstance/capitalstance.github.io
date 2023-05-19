@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Awesome Strategies for Enhancing Your Business Branding
 categories: Marketing
@@ -54,4 +54,3 @@ By having MBA students use your company as a learning project, you can gain valu
 
 ### 15. Promote your message through the media
 Contrary to popular belief, you don't have to pay a publicist or have unlimited press releases. You need to couple a good story to tell with your desire to help people to create a magical media message for your business. Whether it's online, print, radio, or television, getting your message out through the media can increase your brand's credibility and visibility.
-
