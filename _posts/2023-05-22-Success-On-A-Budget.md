@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Maximize Team Success on a Budget
 categories: Investing
@@ -61,4 +61,3 @@ It's not just about dreaming big; it's about igniting change on a grand scale. T
 In this rollercoaster ride of entrepreneurship, money may come and go, but a compelling vision has the potential to endure. It possesses an intangible power that transcends material wealth, propelling you to achieve remarkable feats even in the face of adversity. When you possess a vision that pulsates with purpose and meaning, it becomes a magnetic force, drawing talented individuals to collaborate with you on your mission.
 
 Building a dedicated community who ardently believes in your vision is no easy task, but it is a vital pursuit on your path to success. Think of it as the cornerstone of your venture. By tirelessly cultivating your vision and sharing it with the world, you create a ripple effect that resonates with those who long to be part of something greater. Together, you can surmount any obstacle, transcending the limitations of resources and transforming dreams into tangible reality.
-
