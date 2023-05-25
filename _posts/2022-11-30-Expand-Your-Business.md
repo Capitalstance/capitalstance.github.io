@@ -3,7 +3,6 @@ published: true
 layout: post
 categories: World-market
 image: assets/images/worldmarket/wma16.webp
-tags: sticky
 title: Strategies for Leveraging Innovation to Expand Your Business
 ---
 
