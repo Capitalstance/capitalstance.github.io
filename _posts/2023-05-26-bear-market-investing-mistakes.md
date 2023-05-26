@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Dodge 3 Bear Market Blunders While Investing
-categories: Stock-Market
+categories: Market-Stocks
 image: assets/images/marketstocks/mst16.webp
 ---
 
