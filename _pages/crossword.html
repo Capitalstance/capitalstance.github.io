@@ -3,6 +3,11 @@ title: "Crossword"
 layout: page
 permalink: "/crossword.html"
 ---
+{% if page.content contains "gumroad" %}
+  <script src="https://gumroad.com/js/gumroad-embed.js"></script>
+{% endif %}
 
-<script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://9432604211760.gumroad.com/l/demo">Buy on</a>
+
+<div class="gumroad-product-embed" data-gumroad-product-id="{{ include.id }}" data-outbound-embed="true">
+  <a href="https://gumroad.com/l/{{ include.id }}">Loading...</a>
+</div>
