@@ -286,26 +286,35 @@ body{
         justify-content: space-evenly;
         align-items: center;
     }
-    .books{
-        display: flex;
-        flex-direction: row;
-        width: 100%;
-        max-width: 600px;
-        justify-content: space-evenly;
-        background-color: #cbb5e2;
-        border-radius: 10px;
-        margin-bottom: 3em;
-        box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
-    }
-    .books:nth-of-type(2){
-        background-color: #fbadaf;
-    }
-    .books:nth-of-type(3){
-        background-color: #a4e0eb;
-    }
-    .books:nth-of-type(4){
-        background-color: #fdca95;
-    }
+    .books {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    max-width: 600px;
+    justify-content: space-evenly;
+    background-color: #cbb5e2;
+    border-radius: 10px;
+    margin-bottom: 3em;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+}
+
+/* For the nth type of book, change the background color */
+.books:nth-of-type(4n + 1) {
+    background-color: #cbb5e2; /* First color */
+}
+
+.books:nth-of-type(4n + 2) {
+    background-color: #fbadaf; /* Second color */
+}
+
+.books:nth-of-type(4n + 3) {
+    background-color: #a4e0eb; /* Third color */
+}
+
+.books:nth-of-type(4n + 4) {
+    background-color: #fdca95; /* Fourth color */
+}
+
     .book-img{
         width: 100%;
         max-width: 500px;
