@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Transforming Your Marketing Mix with 7 Ps
 categories: Marketing
@@ -100,4 +100,3 @@ In the bestselling book, Good to Great, Jim Collins unraveled the secret of top 
 To truly thrive in business, you must think deeply about who will execute each task and responsibility. Progress often hinges on finding and attracting the perfect person for each role. Unfortunately, some fantastic business plans remain shelved, collecting dust because the individuals who created them couldn't find the right people to bring those plans to life.
 
 Marketing - a force to reckon with, no matter the size of your venture - be it an online store, a brick-and-mortar shop, a local business, or a mammoth corporation. As the tides of trends shift, one thing holds steadfast: the 7Ps of marketing, an invincible framework that adapts and thrives with every new wave. It's your compass to stay on course and seize unparalleled triumphs in today's cutthroat marketplace.
-
