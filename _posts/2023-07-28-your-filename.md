@@ -1,7 +1,7 @@
 ---
 published: false
 layout: post
-title: null
+title: 7 Benefits of a Health Savings Account
 categories: Savings
 image: assets/images/savings/
 ---
