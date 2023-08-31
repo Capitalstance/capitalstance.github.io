@@ -3,7 +3,7 @@ published: false
 layout: post
 title: Launch Your Product and Stop Wasting Time
 categories: World-Market
-image: assets/images/worldmarket/
+image: assets/images/worldmarket/prod.webp
 ---
 Every single day, an unstoppable surge of ideas floods our minds. Ideas bursting with the potential to revolutionize society and pave our path to unfathomable wealth. But here's the raw truth: only a handful of these ideas ever come to fruition. Why? Because most of us lack the audacity to breathe life into them – the audacity to take that leap of faith. Entrepreneurship, you see, demands a fearless embrace of risks. As the brilliant Reid Hoffman, founder of LinkedIn, wisely expressed, "The entrepreneurial journey starts with jumping off a cliff and assembling an airplane on the way down."
 
