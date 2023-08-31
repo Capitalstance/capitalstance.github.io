@@ -58,5 +58,7 @@ Retirement might seem like a distant dream when you're in college, but it's neve
 Let's talk about Individual Retirement Accounts (IRAs), the secret weapon to turbocharge your savings with special tax advantages! These accounts offer two fantastic options: the traditional IRA and the Roth IRA.
 The traditional IRA allows you to contribute and grow your money tax-free, but you'll pay taxes on qualified withdrawals during retirement. On the other hand, with a Roth IRA, you pay taxes on your contributions upfront, but come retirement, you can make tax-free withdrawals! It's like giving your future self a wonderful gift.
 While IRAs offer fantastic benefits, they do have some limitations like lower income phase-outs and contribution limits compared to 401(k)s. But don't let that stop you from exploring this powerful savings tool!
+
 If you're looking for a smart and efficient way to diversify your investments, consider fund investing. Low-cost index funds and ETFs are your gateway to the investing world. They offer an easy and quick way to get started and minimize the volatility of your investments.
+
 However, if you want to take your wealth to new heights and are ready to embrace higher risks, actively traded funds and growth-based investing are the way to go! Keep in mind that higher rewards often come with bigger fees, so be well-prepared for the trade-off.
