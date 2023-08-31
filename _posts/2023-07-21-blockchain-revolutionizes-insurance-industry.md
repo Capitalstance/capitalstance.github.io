@@ -1,7 +1,7 @@
 ---
 published: false
 layout: post
-title: Game-Changing Blockchain Moves transforming Insurance
+title: Game-Changing Blockchain Moves Transforming Insurance
 categories: Cryptocurrency
 image: assets/images/crypto/insur.webp
 ---
