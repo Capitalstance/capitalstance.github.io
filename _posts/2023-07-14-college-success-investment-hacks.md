@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 7 Investment Hacks to Master College Success
 categories: Investing
@@ -60,4 +60,3 @@ The traditional IRA allows you to contribute and grow your money tax-free, but y
 While IRAs offer fantastic benefits, they do have some limitations like lower income phase-outs and contribution limits compared to 401(k)s. But don't let that stop you from exploring this powerful savings tool!
 If you're looking for a smart and efficient way to diversify your investments, consider fund investing. Low-cost index funds and ETFs are your gateway to the investing world. They offer an easy and quick way to get started and minimize the volatility of your investments.
 However, if you want to take your wealth to new heights and are ready to embrace higher risks, actively traded funds and growth-based investing are the way to go! Keep in mind that higher rewards often come with bigger fees, so be well-prepared for the trade-off.
-
