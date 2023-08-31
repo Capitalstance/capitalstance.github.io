@@ -1,0 +1,37 @@
+---
+published: false
+layout: post
+title: Discover the Power of Metaverse Banking
+categories: Banking
+image: assets/images/banking/metbank.webp
+---
+Experts predict that the market size will skyrocket to a staggering $800 billion by 2024, as more organizations hop on board. With associated markets like NFTs already surpassing a massive $41 billion, and over $54 billion spent on virtual goods in 2021, the virtual world is becoming our future habitat. Brace yourself for an incredible shift, as the Metaverse becomes an essential realm, compelling businesses to invest in customer engagement. According to Gartner, by 2026, a quarter of people will spend at least one hour daily in the Metaverse for work, shopping, education, socializing, or entertainment.
+
+At Capgemini Financial Services, we envision the Metaverse as a revolutionary new economy, a whole new way of doing business, fueled by a fusion of various groundbreaking technologies. At its heart, the Metaverse thrives on immersive and decentralized technologies. Imagine decentralized technologies like Web3, DLT, and NFTs as the strong foundation that provides a robust and unshakable infrastructure for value exchange. On top of that, immersive technologies like AR/VR, haptic, and spatial technologies deliver an enchanting and captivating virtual user experience that feels incredibly real.
+
+Before plunging into the thrilling world of the Metaverse, banks need to take a step back and assess the evolution of banking and their own maturity levels across different stages:
+
+### Traditional Banking:
+Think of this as the old-school two-tier banking model governed by central banks, heavily reliant on face-to-face customer interactions in the physical space. Traditional banking covered a wide range of services, from retail to commercial and wealth management, but it was quite manual and paper-based. Sadly, it lacked the personal touch and customization that modern customers crave.
+
+### Digital Banking: Embracing the Futuristic Revolution
+In the last decade, banking has undergone a remarkable transformation with the rapid digitization of its services. This revolution can be categorized into two key aspects. First, traditional banking processes have been made accessible through internet and mobile channels, offering customers greater convenience. Second, banks have gone a step further, creating entirely new customer journeys, prioritizing digital and data-driven approaches. By embracing technology like never before, banks now operate as tech-savvy companies, delivering an unparalleled customer experience and seamless operations.
+
+### Open and Beyond Banking: Unleashing a World of Possibilities
+Over the past three to five years, a remarkable change called "banking as a service" has emerged. This transformation enables banks to seamlessly connect with and offer third-party services through APIs, thanks to regulations such as PSD2 and GDPR. As a result, we now witness the rise of digital-only banks, neobanks, and an array of cross-industry marketplaces facilitated by banks. These marketplaces span across diverse sectors like energy services, health services, automotive buying and selling, home concierge services, and more.
+
+### Decentralized Finance: The Thrilling Crypto Revolution
+In the past couple of years, blockchain technology, especially with the emergence of Web3, has given birth to an entirely new economy with no borders. This new financial landscape is characterized by heightened security, lightning-fast transactions (on par with traditional banking), and a move towards decentralization, removing intermediaries from the equation. The massive surge in crypto, NFTs (Non-Fungible Tokens), and central bank digital currencies has unlocked the potential of previously untapped assets like art, real estate, and gaming. Traditional banks now face the challenge of adapting to this new segment of customers while cooperating proactively with regulators.
+
+### Metaverse Banking: Journey into a Thriving Virtual Reality
+Over the last six months, the metaverse has rapidly gained popularity across industries, and the banking sector is no exception. Bridging the gap between the physical and virtual worlds through innovative hardware and software, the metaverse is set to thrive. However, for this virtual reality to flourish, it requires a robust economic system. Here, NFTs take center stage, unlocking immense value in the metaverse (MetaFi). As the metaverse becomes the new norm for playing, working, and socializing, the demand for a reliable mechanism to exchange value within this digital realm will skyrocket.
+
+### Engaging Banks in the Metaverse: Seizing the Future!
+In the fast-changing landscape of finance, banks must act swiftly to stay relevant and meet the demands of the digital era. The metaverse, a virtual world where we can explore, transact, and interact, presents a unique opportunity that banks can't afford to ignore. Let's explore the short and long-term strategies that can help banks thrive in this exciting new realm.
+
+In the short term (less than 12 months), banks can take various approaches to engage customers within the existing open metaverses. Imagine banks identifying potential customers and bringing them onboard through crypto wallets. With this, they can provide essential services like payments, lending, and secure custody options. Excitingly, TerraZero even offers a groundbreaking "Metaverse Mortgage," enabling clients to own virtual real estate. The Industrial Bank of Korea (IBK) is also stepping into the metaverse, offering a range of financial products in the virtual market, including the innovative "dotori" bank account. These opportunities not only cater to existing customers but also allow banks to reach out to new customer segments like creators, gamers, and artists. By aggregating multiple sources of income, providing instant loans, financial planning, and concierge services, banks can create a one-of-a-kind metaverse banking experience!
+
+Looking a bit further ahead, in the mid-to-long term (over 12 months), banks can leverage the progress already made in decentralized finance and NFTs (non-fungible tokens) to craft a solid long-term plan for the metaverse. Many global banks already offer digital asset platforms that can be expanded to support virtual world requirements. Banks can even create their private metaverse platforms, opening doors to innovative new products and marketplaces. By tying these virtual innovations back to traditional infrastructure, banks can bridge the gap between the real and virtual worlds. An essential aspect that banks should focus on is identity management in the metaverse. Utilizing NFT-based identities, like ERC 725 standards, banks can better understand their customers' Web3 activities. This understanding can significantly aid in risk management, compliance, data protection, and fraud prevention.
+
+While some might dismiss the metaverse as a passing trend, ignoring its potential could lead to banks becoming obsolete in a rapidly evolving market. The time to act is now! Banks must align their strategies with both short-term and long-term horizons, exploring innovative use cases within the metaverse. As progress speeds ahead, dedicated efforts are crucial to ensure early identification and prompt action. The metaverse beckons, and banks must seize the opportunity to shape their future in this extraordinary digital realm!
+
