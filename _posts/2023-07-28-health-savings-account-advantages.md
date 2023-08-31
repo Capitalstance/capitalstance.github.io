@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 7 Benefits of a Health Savings Account
 categories: Savings
@@ -37,4 +37,3 @@ Imagine a worry-free retirement where you can access your HSA funds for non-heal
 Setting up your HSA is a piece of cake, but remember - DO NOT CALL your insurance company! They're all about insurance, not HSAs. You've got two simple options for setting up your account. First, head to your local bank - either in person or online - and complete the hassle-free process with just a few checkboxes and your signature. Voila! They'll even throw in a convenient Visa card for medical expenses straight from your HSA. Alternatively, if you prefer letting your money grow, choose the second option: an IRA custodian. We'll provide you with a list of choices and assist you in setting up your LLC for your HSA - easy as pie!
 
 It's no wonder that the HSA remains one of the most underestimated gems in the world of tax strategies. Even President Trump recognized its potential, emphasizing its significance in healthcare legislation changes.
-
