@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Ways to Boost Income While Working Full-Time
 categories: Earnings
@@ -48,4 +48,3 @@ Imagine getting paid for your favorite hobbies! If you adore skydiving, why not 
 Surf, Relax, and Earn Online Even if chilling and surfing the internet is your thing, you can still make money effortlessly! Get paid to test websites and share your valuable opinions with platforms like UserTesting. It's simple, enjoyable, and rewards you for being yourself!
 
 Ignite your imagination and kickstart a stream of additional income starting today.
-
