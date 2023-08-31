@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Launch Your Product and Stop Wasting Time
 categories: World-Market
