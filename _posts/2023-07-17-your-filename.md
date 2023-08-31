@@ -1,9 +1,9 @@
 ---
 published: false
 layout: post
-title: null
-categories: null
-image: assets/images/earnings/
+title: Ways to Boost Income While Working Full-Time
+categories: Earnings
+image: assets/images/earnings/boost.webp
 ---
 Is the never-ending drain on your bank account taking a toll on your overall well-being? A recent survey conducted by the American Psychological Association (APA) has revealed the alarming impact of financial stress on the health of Americans across the nation. Surprisingly though, this burden is not solely limited to individuals from lower-income households; even the affluent are grappling with money-related anxiety.
 
