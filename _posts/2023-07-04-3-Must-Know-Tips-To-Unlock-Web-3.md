@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 3 Must-Know Tips To Unlock Web 3
 categories: Cryptocurrency
@@ -36,4 +36,3 @@ Partnerships and affiliations play a crucial role in determining a project's pot
 Web 3.0 is the future we've all been waiting for, promising a decentralized universe that challenges established Web 2.0 giants like Airbnb, Google, Amazon AWS, UpWork, and Facebook. As Web 3.0 slowly gains momentum, it offers numerous advantages across diverse sectors like travel, finance, hospitality, healthcare, and software development.
 
 Though there are hurdles to overcome, the gradual shift from centralized Web 2.0 to decentralized Web 3.0 is already underway. Embrace this revolution, for it will shape a brighter and more empowering digital era for all.
-
