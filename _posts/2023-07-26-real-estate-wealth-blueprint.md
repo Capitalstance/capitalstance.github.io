@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: null
 categories: null
@@ -44,4 +44,3 @@ To master this game, you must adopt a holistic mindset – think long-term, not 
 Homebuying and selling are serious business, deserving your undivided attention. When faced with crucial home-related questions, don't make hasty choices. Grant yourself at least a day to mull over options, allowing you to fully grasp the consequences of each decision.
 
 In this fierce real estate battlefield, success is within your reach. Strengthen your finances, secure additional funding, and strategize optimized bids and home prices. Embrace the journey, tackle one step at a time, and arm yourself with knowledge to confidently make each move.
-
