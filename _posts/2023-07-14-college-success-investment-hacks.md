@@ -11,13 +11,13 @@ Now, picture yourself back in college - not exactly the time you'd associate wit
 
 Besides the financial benefits, your college years are a crucial phase for developing healthy habits. By laying the groundwork and kickstarting your investment portfolio now, you'll have the hard part handled even before graduation. So, why wait? Your future self will thank you!
 
-### Figure out your "why."
+_### Figure out your "why."_
 Having a clear reason for investing will help you stay committed, especially during turbulent economic times. Your "why" could be anything from aiming for an early retirement, building long-term wealth, or achieving important life milestones.
 
-### Set your long-term goals
+_### Set your long-term goals_
 Envision where you want to be in the coming decades and chart your path accordingly. If buying a house in 10 years is your aim, you'll likely want to strike a balance between growing your wealth and safeguarding against market fluctuations. But if you're looking to retire 40 years from now, you might be able to afford taking more risks with your investments.
 
-### How much can you afford to invest?
+_### How much can you afford to invest?_
 It's essential to have an emergency fund first, covering at least three to six months' worth of expenses. You'll also need to factor in your regular living costs like rent, groceries, and debt payments when deciding on your investment contributions.
 Here's the great part: you don't need a fortune to start investing. Even if your budget is tight, a few bucks a month is all it takes to begin your journey towards financial freedom and stock market success.
 
