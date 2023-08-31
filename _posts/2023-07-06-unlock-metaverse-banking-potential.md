@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Discover the Power of Metaverse Banking
 categories: Banking
@@ -34,4 +34,3 @@ In the short term (less than 12 months), banks can take various approaches to en
 Looking a bit further ahead, in the mid-to-long term (over 12 months), banks can leverage the progress already made in decentralized finance and NFTs (non-fungible tokens) to craft a solid long-term plan for the metaverse. Many global banks already offer digital asset platforms that can be expanded to support virtual world requirements. Banks can even create their private metaverse platforms, opening doors to innovative new products and marketplaces. By tying these virtual innovations back to traditional infrastructure, banks can bridge the gap between the real and virtual worlds. An essential aspect that banks should focus on is identity management in the metaverse. Utilizing NFT-based identities, like ERC 725 standards, banks can better understand their customers' Web3 activities. This understanding can significantly aid in risk management, compliance, data protection, and fraud prevention.
 
 While some might dismiss the metaverse as a passing trend, ignoring its potential could lead to banks becoming obsolete in a rapidly evolving market. The time to act is now! Banks must align their strategies with both short-term and long-term horizons, exploring innovative use cases within the metaverse. As progress speeds ahead, dedicated efforts are crucial to ensure early identification and prompt action. The metaverse beckons, and banks must seize the opportunity to shape their future in this extraordinary digital realm!
-
