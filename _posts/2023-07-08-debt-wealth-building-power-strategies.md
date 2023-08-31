@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 4 Powerful Debt Strategies for Building Wealth
 categories: Wealth
@@ -54,4 +54,3 @@ Facing debt head-on can feel daunting, but fear not! You hold the power to turn 
 
 To begin, crafting a smart budget management plan is crucial. Don't worry; it's not as complicated as it sounds! Take a realistic look at your earnings and essential needs. Then, with determination, say goodbye to unnecessary spending. By doing so, you'll shield yourself from falling back into the clutches of consumer debt.
 The next step is to make your money work smarter for you. Say hello to high annual percentage yields! Seek out savings accounts that offer attractive interest rates. The higher the rate, the more your money will grow – and that's a surefire way to bolster your finances.
-
