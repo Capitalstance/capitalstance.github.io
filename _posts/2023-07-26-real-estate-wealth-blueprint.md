@@ -1,9 +1,9 @@
 ---
 published: true
 layout: post
-title: null
-categories: null
-image: assets/images/wealth/
+title: 5 Steps for Long-Term Real Estate Wealth
+categories: Wealth
+image: assets/images/wealth/real.webp
 ---
 The housing market, the heart and soul of homeowners, is now engulfed in a frenzy like never before! Especially for the young and daring Millennials and Gen Zers, it's a wild roller-coaster ride that can leave you breathless. Aspiring entrepreneurs aiming to invest in real estate are facing a tough challenge - how to navigate these tumultuous waters without sinking their dreams.
 
