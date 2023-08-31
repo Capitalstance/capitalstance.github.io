@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Transforming Your Marketing Mix with 7 Ps
+title: Supercharge Your Marketing Mix with these 7Ps!
 categories: Marketing
 image: assets/images/marketing/mix.webp
 ---
