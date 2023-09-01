@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Busting 4 Wealth Management Myths
 categories: Wealth
@@ -34,4 +34,3 @@ Bigger is not always better when it comes to wealth management. Contrary to popu
 On the flip side, larger institutions have their merits too. Some prefer their standardized approach, credibility, and well-established operations. Moreover, their larger teams mean you can connect with multiple experts anytime, not just one financial advisor. Ultimately, the choice between a small firm or a large one boils down to your personal preference and where you feel most valued.
 
 In the world of finance, myths abound when it comes to wealth management. Even seasoned money magicians can enhance their fortunes by seeking guidance from a savvy wealth management specialist. Don't miss out on maximizing your Return on Investment (ROI) and embracing a panoramic view of your financial landscape.
-
