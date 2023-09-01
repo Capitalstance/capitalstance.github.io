@@ -3,7 +3,7 @@ published: false
 layout: post
 title: Crucial Cryptocurrency Investment Tips for Success
 categories: Cryptocurrency
-image: assets/images/crypto/
+image: assets/images/crypto/tips.webp
 ---
 
 Engaging with the crypto frenzy and hearing about incredible success stories like Dogecoin's soaring and Bitcoin's recent gains, it's no wonder many newcomers are eager to join the party. The potential financial rewards are tempting, no doubt, but hold on tight! Before you dive headfirst into the crypto world, let's have a heart-to-heart.
