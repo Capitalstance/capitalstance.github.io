@@ -3,7 +3,7 @@ published: false
 layout: post
 title: 6 Bank Technology Trends Now
 categories: Banking
-image: assets/images/banking/
+image: assets/images/banking/tre.webp
 ---
 Due to the global pandemic's devastating impact in 2020, the adoption of digital solutions has become indispensable for all types of organizations, particularly in the banking and financial sectors. The widespread need for contactless and virtual operations has significantly transformed the way we interact and access services.
 
