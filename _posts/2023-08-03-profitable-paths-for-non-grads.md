@@ -3,7 +3,7 @@ published: false
 layout: post
 title: 8 Incredible Money-Making Strategies for Non-Grads!
 categories: Earnings
-image: assets/images/earnings/
+image: assets/images/earnings/mak.webp
 ---
 Did you know that a shocking 54 percent of college students drop out before completing their degrees? It's disheartening to think about the enormous potential and dreams that are left unfulfilled. On the flip side, studies have proven that individuals with a college degree, specifically those between the ages of 25 and 32, earn a staggering $17,500 more per year than their peers without a degree. So the question arises: is investing in a college education truly worthwhile, especially when faced with the burden of overwhelming student debt and a job market that is just beginning to cautiously heal?
 
