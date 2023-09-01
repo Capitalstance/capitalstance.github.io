@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 6 Bank Technology Trends Now
 categories: Banking
@@ -46,4 +46,3 @@ Moreover, cutting-edge technologies like AI/ML and big data will be the sword ag
 
 ### The Future Is Bright: Embrace the Winds of Change
 The financial world is at a tipping point, ready to embrace the cloud's power and explore new frontiers of open banking and digital prowess. It's a journey towards a future where finance and technology unite to create a seamless and secure banking experience for all. Buckle up; we're in for an exciting ride!"
-
