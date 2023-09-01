@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Discover 4 Potent Assets for Impactful Investments
 categories: Investing
