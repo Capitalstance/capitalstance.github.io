@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 5 Must-Knows for Blockchain PR!
 categories: Cryptocurrency
@@ -42,4 +42,3 @@ From my own experience, I've learned that the market's state can significantly i
 It's a fact: sooner or later, the market will dip. So, it's essential to plan your financial strategy, considering both cryptocurrencies and fiat currency. Avoid relying solely on crypto payments, as it can lead to unexpected financial hardships. I've witnessed businesses suffer when the value of Bitcoin dropped drastically, leaving them unable to pay their developers. Be cautious with your finances and don't let yourself get carried away by the excitement of Bitcoin's price or alt season. Follow crypto-influencers, but remember, predictions are uncertain, and not all influencers hold real sway over prices (except, perhaps, Elon Musk).
 
 In the grand scheme of things, we're still in the early stages of the crypto world, metaverse, and NFTs. These groundbreaking concepts will inevitably become part of our daily lives, but patience is key. Mass adoption takes time, and as communication professionals, we can lead the way by educating people and helping them embrace these new frontiers.
-
