@@ -3,7 +3,7 @@ published: false
 layout: post
 title: The Contribution of Banks on Entrepreneurial Growth
 categories: Banking
-image: assets/images/banking/
+image: assets/images/banking/cont.webp
 ---
 In today's economic battleground, the significance of entrepreneurship has surged to extraordinary heights! It injects a vital dose of dynamism into the economic system, setting it ablaze with innovation and potential. Meet the fearless entrepreneurs – true national treasures – fueled by motivation and richly rewarded for their contributions. What do they bring to the table? Oh, just groundbreaking innovation, job opportunities galore, and a flourishing society!
 
