@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: The Contribution of Banks on Entrepreneurial Growth
 categories: Banking
@@ -29,4 +29,3 @@ When it comes to making smart investment choices, entrepreneurs need a strong al
 Let's face it – the journey of an entrepreneur is fraught with challenges, and many ventures stumble due to poor investment decisions, fund mismanagement, inadequate capital, and flawed planning. But fear not! Banks are here to lend a helping hand and pave the way for prosperity. With their unwavering support and robust financial backing, entrepreneurs can embark on profitable and viable ventures with confidence.
 
 The importance of commercial and specialized banks in India cannot be overstated. These financial giants not only provide valuable advice but also extend crucial financial assistance through loans. Their contributions are nothing short of remarkable, propelling the growth and advancement of entrepreneurship in the country.
-
