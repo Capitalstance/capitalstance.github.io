@@ -1,7 +1,7 @@
 ---
 published: false
 layout: post
-title: Retire in 15 Years; Foolproof Savings Blueprint!
+title: 'Retire in 15 Year:Foolproof Savings Blueprint!'
 categories: Savings
 image: assets/images/savings/fol.webp
 ---
