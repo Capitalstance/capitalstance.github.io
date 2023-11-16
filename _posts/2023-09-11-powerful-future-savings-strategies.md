@@ -1,5 +1,9 @@
 ---
 published: false
+layout: post
+title: 10 Strategies for Saving for Your Future
+categories: Savings
+image: assets/images/savings/fut.webp
 ---
 
 Imagine for a moment if you had a crystal ball, a glimpse into the future, and it told you that trouble was brewing on the horizon. What would you do? You'd probably start stashing away cash faster than you can say "rainy day." Whether it's the looming threat of a pandemic, the dreaded pink slip at work, an unexpected medical crisis, or any other impending catastrophe, you'd want to be ready. It's just common sense, right?
