@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 10 Strategies for Saving for Your Future
 categories: Savings
@@ -94,4 +94,3 @@ The sooner you start, the better. We're talking 20, 30, or even 40 years down th
 If you're reading this right now, you're already one lucky duck. Life has handed you a lemon or two, but remember what they say – when life gives you lemons, make some darn lemonade! Heck, not just that, sell it, and tuck that money away.
 Why, you ask? Because life is full of twists and turns, my friend. Retirement may seem like a distant speck on the horizon, but time moves faster than you think. You want to be able to kick back and enjoy your golden years, right? Well, the key is in preparing early.
 That NPS fund I mentioned earlier? It's like a safety net, a financial cushion, a cozy warm blanket for your future self. It's never too early to start building that nest egg, and believe me, your older self will thank you for it.
-
