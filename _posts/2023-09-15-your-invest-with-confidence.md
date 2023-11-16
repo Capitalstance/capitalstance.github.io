@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Three Easy Steps to Real Estate Investing
 categories: Investing
