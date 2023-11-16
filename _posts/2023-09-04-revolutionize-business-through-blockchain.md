@@ -3,7 +3,7 @@ published: false
 layout: post
 title: Supercharging Your Business With Blockchain Technology
 categories: Cryptocurrency
-image: assets/images/crypto/
+image: assets/images/crypto/super.webp
 ---
 
 In 2016-2017 a bunch of dreamers and tech wizards decided to embark on a journey that would change the digital game forever. These folks, the real visionaries of our time, had a bold idea - to link unique digital treasures to something called the blockchain. And, most often, they were doing this on a platform you might have heard of - Ethereum. The seeds of this revolution were sown by projects that we now recognize as the big shots in the NFT arena, like the iconic CryptoPunks.
