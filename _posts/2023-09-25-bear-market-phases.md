@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Phases of a Bear Market
 categories: Stock-Market
@@ -62,4 +62,3 @@ But then, something strange happens. In the midst of the hysteria, the market hi
 It's only when you look in the rearview mirror that you see it – the subtle signs of a rally, a U-shaped bottom forming if the selling has been a prolonged ordeal. It's a different story from the V-shaped bottoms, those lightning-fast plunges we witnessed during the 2020 pandemic sell-off.
 
 But here's the silver lining: history reminds us that all bear markets eventually come to a close. And when they do, they often usher in roaring bull markets, ready to take the stage. But remember, this nugget of wisdom applies mainly to the benchmark indices, not necessarily every individual stock
-
