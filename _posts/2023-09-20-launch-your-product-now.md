@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Propel Your Product Into the World Now!
 categories: World-Market
