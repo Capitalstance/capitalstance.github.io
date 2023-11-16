@@ -58,6 +58,7 @@ The market seems content in this lower realm, where the occasional rally is just
 The fear is real; it's palpable. People start to scramble, fearing the market will plunge even deeper into the abyss. The media is all over it, painting a gloomy picture, screaming, "The sky is falling!" In the midst of this chaos, we witness indiscriminate selling, as investors toss out the good with the bad. It's like throwing the baby out with the bathwater – a hasty, panicked move that's often driven by raw emotion. 
 
 But then, something strange happens. In the midst of the hysteria, the market hits new bear market lows, yet this time, it's like the market says, "Enough is enough." It finds a floor, a bottom that actually holds. The only folks still hanging on to their positions are those with nerves of steel, the long-term investors who aren't easily swayed, or maybe they just don't care anymore. Their portfolios have already taken such a hit that it hardly seems to matter now.
+
 It's only when you look in the rearview mirror that you see it – the subtle signs of a rally, a U-shaped bottom forming if the selling has been a prolonged ordeal. It's a different story from the V-shaped bottoms, those lightning-fast plunges we witnessed during the 2020 pandemic sell-off.
 
 But here's the silver lining: history reminds us that all bear markets eventually come to a close. And when they do, they often usher in roaring bull markets, ready to take the stage. But remember, this nugget of wisdom applies mainly to the benchmark indices, not necessarily every individual stock
