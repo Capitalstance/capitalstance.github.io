@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Maximizing Your NFT Success Crafting and Marketing
 categories: NFTs
@@ -48,4 +48,3 @@ On one side of the canvas, you've got the die-hard physical art lovers. They're 
 Matias is serving up an art revolution on a silver platter. Take his ice cave masterpiece, for instance – NFT version, a cool 3 ETH a pop (that's roughly $7,000 for those not crypto-savvy), and the physical sibling, a limited edition of 50. Drumroll, please – they're completely separate entities. No forced marriage, no unnecessary bundling – just pure artistic independence.
 
 In Matias' world, there's no need for customers to crave the physical piece like it's the holy grail. He's seen artists trying to shack up their digital and physical creations, only to find the dance floor empty. Turns out, people don't want the combo – they're after the solo acts.
-
