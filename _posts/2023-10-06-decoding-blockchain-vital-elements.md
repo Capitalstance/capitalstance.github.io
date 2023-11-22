@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 4 Key Blockchain Concepts Demystified
 categories: Cryptocurrency
