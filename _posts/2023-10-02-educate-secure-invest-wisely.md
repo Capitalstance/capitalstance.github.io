@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 5 Key Tactics for Bitcoin Newbies
 categories: E-wallets
