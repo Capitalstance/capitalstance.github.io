@@ -3,7 +3,7 @@ published: false
 layout: post
 title: How Banks Drive Entrepreneurial Growth and Development
 categories: Banking
-image: assets/images/banking/
+image: assets/images/banking/drv.webp
 ---
 
 Entrepreneurship, folks, it's the real deal in today's economic rollercoaster. It's like that burst of adrenaline that makes the economy go 'round. We're talking about those fearless folks – entrepreneurs – who are basically the rockstars of innovation, job creation, and making our society all fancy and prosperous.
