@@ -3,6 +3,7 @@ layout: post
 title: Tips for Saving Big for your Future
 categories: Savings
 image: assets/images/savings/eff.webp
+published: false
 ---
 
 Imagine for a moment if you had a crystal ball, a glimpse into the future, and it told you that trouble was brewing on the horizon. What would you do? You'd probably start stashing away cash faster than you can say "rainy day." Whether it's the looming threat of a pandemic, the dreaded pink slip at work, an unexpected medical crisis, or any other impending catastrophe, you'd want to be ready. It's just common sense, right?
@@ -105,4 +106,3 @@ Now, let's talk about gratitude. If you're reading this right now, you're alread
 Why, you ask? Because life is full of twists and turns, my friend. Retirement may seem like a distant speck on the horizon, but time moves faster than you think. You want to be able to kick back and enjoy your golden years, right? Well, the key is in preparing early.
 
 That NPS fund I mentioned earlier? It's like a safety net, a financial cushion, a cozy warm blanket for your future self. It's never too early to start building that nest egg, and believe me, your older self will thank you for it.
-
