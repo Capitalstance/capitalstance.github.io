@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Build Passive Wealth Through Digital Courses
+title: Create Your Profitable Online Course Now!
 categories: Wealth
 image: assets/images/wealth/dig.webp
 published: true
