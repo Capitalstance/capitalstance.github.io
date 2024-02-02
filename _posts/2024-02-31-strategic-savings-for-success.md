@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tips for Saving Big for your Future
+title: 10 Simple Steps to Save Smartly
 categories: Savings
 image: assets/images/savings/eff.webp
 published: true
