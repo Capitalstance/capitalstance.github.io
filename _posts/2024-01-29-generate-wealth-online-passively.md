@@ -3,7 +3,6 @@ layout: post
 title: Build Passive Wealth Through Digital Courses
 categories: Wealth
 image: assets/images/wealth/dig.webp
-published: false
 ---
 
 In the realm of online courses, there's been a wild growth spurt. But with this explosion in popularity, we've seen a troubling trend: the quality of these courses is plummeting, and folks are dropping out left and right. It's like a rollercoaster with all the thrill but none of the safety.
