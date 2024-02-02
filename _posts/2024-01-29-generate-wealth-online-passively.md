@@ -3,6 +3,7 @@ layout: post
 title: Build Passive Wealth Through Digital Courses
 categories: Wealth
 image: assets/images/wealth/dig.webp
+published: false
 ---
 
 In the realm of online courses, there's been a wild growth spurt. But with this explosion in popularity, we've seen a troubling trend: the quality of these courses is plummeting, and folks are dropping out left and right. It's like a rollercoaster with all the thrill but none of the safety.
@@ -37,6 +38,3 @@ But here's the kicker: none of this works without top-notch technical training. 
 
 ### Be An Example Of What Is Possible
 Dolly Parton once said, "If your deeds leave a mark that sparks dreams, fuels learning, ignites action, and nurtures growth in others, well, you're one heck of a leader." Those words are like a beacon guiding us through the remarkable journey of Fixe Beauty. In the heart of Fixe Beauty, Penner has weaved a tight-knit family that's all about unleashing the leader within, where success radiates from the very core. Their secret recipe? It's not magic; it's all about empowerment, choice, and a sense of belonging. And let me tell you, Fixe Beauty's triumphant tale amid the wild ride of global financial turmoil is living proof that Penner's faith in the scalability of every business is a force to be reckoned with.
-
-
-
