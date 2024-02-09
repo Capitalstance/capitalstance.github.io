@@ -3,6 +3,7 @@ layout: post
 title: Your Guide to Conquer the Global Market
 categories: Earnings
 image: assets/images/earnings/int.webp
+published: false
 ---
 
 Expanding your business to foreign lands, is a monumental feat that demands careful thought and a heart full of determination. Picture it as a thrilling adventure into the unknown, where your success relies on having a solid foundation to navigate the stormy seas of international business.
@@ -61,6 +62,4 @@ Understanding your customers not only opens the door to new opportunities but al
 
 But wait, there's more! Even in the cozy confines of your domestic market, you're going to face curveballs, tests, and plenty of trial and error. It's all part of the business game. The cool thing is, mistakes aren't the end of the world; they're your golden ticket to learning and applying that knowledge in new, uncharted territories.
 
-Stay entrepreneurial on both sides of the fence, and make sure you're in it for the long ride. By building local resources that are laser-focused on your global game, you're stacking the odds in your favor. It's like planting seeds in fertile soil, patiently tending to them, and reaping a bountiful harvest in the end. 
-
-
+Stay entrepreneurial on both sides of the fence, and make sure you're in it for the long ride. By building local resources that are laser-focused on your global game, you're stacking the odds in your favor. It's like planting seeds in fertile soil, patiently tending to them, and reaping a bountiful harvest in the end.
