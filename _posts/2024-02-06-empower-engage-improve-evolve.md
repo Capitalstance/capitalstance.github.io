@@ -2,7 +2,7 @@
 layout: post
 title: 6 Compelling Reasons to Embrace Employee Surveys
 categories: Investing
-image: assets/images/investing/
+image: assets/images/investing/surv.webp
 ---
 
 If your leadership crew is dead set on making things better for your hardworking team, there's a game-changing move you can make – a secret weapon, if you will. Let's talk about firing up a game-changer: the anonymous survey. Yup, you read that right. We're not talking about your run-of-the-mill feedback forms. We're talking about a candid confessional for your employees. This is where the rubber meets the road. It's where the truth comes out. A safe space for folks to vent, praise, or spill the tea. In other words, your golden ticket to unlock the workplace's potential.
