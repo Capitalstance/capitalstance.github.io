@@ -3,7 +3,7 @@ published: true
 layout: post
 title: Key Signs You Need a Business Consultant
 categories: Earnings
-image: assets/images/earnings/cont.webp
+image: assets/images/earnings/cons.webp
 ---
 
 Many entrepreneurs experience uncertainty and doubt when launching and running a business. That's why it's a smart move to consider working with a business consultant who has been in your shoes and can offer valuable advice. 
