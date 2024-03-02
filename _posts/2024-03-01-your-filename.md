@@ -1,3 +1,10 @@
+---
+published: null
+layout: post
+title: null
+categories: Banking
+image: assets/images/banking
+---
 
 In recent years, a powerful and groundbreaking technology has taken the world by storm - blockchain. This extraordinary innovation not only brings forth new marvels like cryptocurrencies, DeFi (Decentralized Finance), NFTs (Non-Fungible Tokens), and digital assets but also acts as a solution to the woes caused by centralized monetary systems.
 
