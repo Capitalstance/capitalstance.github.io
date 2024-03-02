@@ -1,6 +1,7 @@
 ---
+published: true
 layout: post
-title: Crypto or Banking: Your Perfect Pick
+title: Crypto or Banking, Your Perfect Pick
 categories: Banking
 image: assets/images/banking/pck.webp
 ---
