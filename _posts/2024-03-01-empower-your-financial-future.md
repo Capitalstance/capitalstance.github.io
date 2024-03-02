@@ -1,6 +1,6 @@
 ---
 layout: post
-title: null
+title: Crypto or Banking: Your Perfect Pick
 categories: Banking
 image: assets/images/banking/pck.webp
 ---
